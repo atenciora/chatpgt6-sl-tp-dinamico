@@ -1,0 +1,1689 @@
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5102
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5103
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5104
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5105
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5106
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5107
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5108
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5109
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5110
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5111
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5112
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5113
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5114
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5115
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5116
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5117
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5118
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5119
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5120
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5121
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5122
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5123
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   Revisando posición con ticket: 5124
+2023.11.13 15:42:00.202	2023.01.03 02:04:22   position modified [#5124 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07223]
+2023.11.13 15:42:00.204	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5124 EURUSD (sl: 1.06733, tp: 1.07223) [done]
+2023.11.13 15:42:00.204	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5124
+2023.11.13 15:42:00.204	2023.01.03 02:04:22   Revisando posición con ticket: 5125
+2023.11.13 15:42:00.204	2023.01.03 02:04:22   Revisando posición con ticket: 5126
+2023.11.13 15:42:00.204	2023.01.03 02:04:22   position modified [#5126 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07223]
+2023.11.13 15:42:00.206	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5126 EURUSD (sl: 1.06733, tp: 1.07223) [done]
+2023.11.13 15:42:00.206	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5126
+2023.11.13 15:42:00.206	2023.01.03 02:04:22   Revisando posición con ticket: 5127
+2023.11.13 15:42:00.206	2023.01.03 02:04:22   Revisando posición con ticket: 5128
+2023.11.13 15:42:00.206	2023.01.03 02:04:22   position modified [#5128 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07223]
+2023.11.13 15:42:00.208	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5128 EURUSD (sl: 1.06733, tp: 1.07223) [done]
+2023.11.13 15:42:00.208	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5128
+2023.11.13 15:42:00.208	2023.01.03 02:04:22   Revisando posición con ticket: 5129
+2023.11.13 15:42:00.208	2023.01.03 02:04:22   Revisando posición con ticket: 5131
+2023.11.13 15:42:00.208	2023.01.03 02:04:22   position modified [#5131 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07223]
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5131 EURUSD (sl: 1.06733, tp: 1.07223) [done]
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5131
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5132
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5133
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5134
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5135
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5136
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5137
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5138
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5139
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5140
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5141
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5142
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5143
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5144
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5145
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5146
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5147
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5148
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5149
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5150
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5151
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5152
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5153
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5154
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5155
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5156
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5157
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5158
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5159
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5160
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5161
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5162
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5163
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5164
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5165
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5166
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5167
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5168
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5169
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5170
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5171
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5172
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5173
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5174
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5175
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5176
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5177
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5178
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5179
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5180
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5181
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5182
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5183
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5184
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5185
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5186
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5187
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5188
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5189
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5190
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5191
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5192
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5193
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5194
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5195
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5196
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5197
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5198
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5199
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5200
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5201
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5202
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5203
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5204
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5205
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5207
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5249
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5252
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   Revisando posición con ticket: 5561
+2023.11.13 15:42:00.210	2023.01.03 02:04:22   position modified [#5561 buy 0.01 EURUSD 1.06730 sl: 1.06730 tp: 1.07240]
+2023.11.13 15:42:00.212	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5561 EURUSD (sl: 1.06730, tp: 1.07240) [done]
+2023.11.13 15:42:00.212	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5561
+2023.11.13 15:42:00.212	2023.01.03 02:04:22   Revisando posición con ticket: 5571
+2023.11.13 15:42:00.212	2023.01.03 02:04:22   position modified [#5571 buy 0.01 EURUSD 1.06728 sl: 1.06728 tp: 1.07258]
+2023.11.13 15:42:00.214	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5571 EURUSD (sl: 1.06728, tp: 1.07258) [done]
+2023.11.13 15:42:00.214	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5571
+2023.11.13 15:42:00.214	2023.01.03 02:04:22   Revisando posición con ticket: 5576
+2023.11.13 15:42:00.214	2023.01.03 02:04:22   position modified [#5576 buy 0.01 EURUSD 1.06726 sl: 1.06726 tp: 1.07276]
+2023.11.13 15:42:00.216	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5576 EURUSD (sl: 1.06726, tp: 1.07276) [done]
+2023.11.13 15:42:00.216	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5576
+2023.11.13 15:42:00.216	2023.01.03 02:04:22   Revisando posición con ticket: 5591
+2023.11.13 15:42:00.216	2023.01.03 02:04:22   position modified [#5591 buy 0.01 EURUSD 1.06724 sl: 1.06724 tp: 1.07284]
+2023.11.13 15:42:00.218	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5591 EURUSD (sl: 1.06724, tp: 1.07284) [done]
+2023.11.13 15:42:00.218	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5591
+2023.11.13 15:42:00.218	2023.01.03 02:04:22   Revisando posición con ticket: 5600
+2023.11.13 15:42:00.218	2023.01.03 02:04:22   position modified [#5600 buy 0.01 EURUSD 1.06722 sl: 1.06722 tp: 1.07312]
+2023.11.13 15:42:00.220	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5600 EURUSD (sl: 1.06722, tp: 1.07312) [done]
+2023.11.13 15:42:00.220	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5600
+2023.11.13 15:42:00.220	2023.01.03 02:04:22   Revisando posición con ticket: 5602
+2023.11.13 15:42:00.220	2023.01.03 02:04:22   position modified [#5602 buy 0.01 EURUSD 1.06721 sl: 1.06721 tp: 1.07331]
+2023.11.13 15:42:00.222	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5602 EURUSD (sl: 1.06721, tp: 1.07331) [done]
+2023.11.13 15:42:00.222	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5602
+2023.11.13 15:42:00.222	2023.01.03 02:04:22   Revisando posición con ticket: 5603
+2023.11.13 15:42:00.222	2023.01.03 02:04:22   position modified [#5603 buy 0.01 EURUSD 1.06722 sl: 1.06722 tp: 1.07312]
+2023.11.13 15:42:00.224	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5603 EURUSD (sl: 1.06722, tp: 1.07312) [done]
+2023.11.13 15:42:00.224	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5603
+2023.11.13 15:42:00.224	2023.01.03 02:04:22   Revisando posición con ticket: 5604
+2023.11.13 15:42:00.224	2023.01.03 02:04:22   position modified [#5604 buy 0.01 EURUSD 1.06721 sl: 1.06721 tp: 1.07331]
+2023.11.13 15:42:00.226	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5604 EURUSD (sl: 1.06721, tp: 1.07331) [done]
+2023.11.13 15:42:00.226	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5604
+2023.11.13 15:42:00.226	2023.01.03 02:04:22   Revisando posición con ticket: 5605
+2023.11.13 15:42:00.226	2023.01.03 02:04:22   position modified [#5605 buy 0.01 EURUSD 1.06723 sl: 1.06723 tp: 1.07313]
+2023.11.13 15:42:00.228	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5605 EURUSD (sl: 1.06723, tp: 1.07313) [done]
+2023.11.13 15:42:00.228	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5605
+2023.11.13 15:42:00.228	2023.01.03 02:04:22   Revisando posición con ticket: 5606
+2023.11.13 15:42:00.228	2023.01.03 02:04:22   position modified [#5606 buy 0.01 EURUSD 1.06722 sl: 1.06722 tp: 1.07312]
+2023.11.13 15:42:00.230	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5606 EURUSD (sl: 1.06722, tp: 1.07312) [done]
+2023.11.13 15:42:00.230	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5606
+2023.11.13 15:42:00.230	2023.01.03 02:04:22   Revisando posición con ticket: 5607
+2023.11.13 15:42:00.230	2023.01.03 02:04:22   position modified [#5607 buy 0.01 EURUSD 1.06726 sl: 1.06726 tp: 1.07276]
+2023.11.13 15:42:00.232	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5607 EURUSD (sl: 1.06726, tp: 1.07276) [done]
+2023.11.13 15:42:00.232	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5607
+2023.11.13 15:42:00.232	2023.01.03 02:04:22   Revisando posición con ticket: 5608
+2023.11.13 15:42:00.232	2023.01.03 02:04:22   position modified [#5608 buy 0.01 EURUSD 1.06725 sl: 1.06725 tp: 1.07285]
+2023.11.13 15:42:00.234	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5608 EURUSD (sl: 1.06725, tp: 1.07285) [done]
+2023.11.13 15:42:00.234	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5608
+2023.11.13 15:42:00.234	2023.01.03 02:04:22   Revisando posición con ticket: 5609
+2023.11.13 15:42:00.234	2023.01.03 02:04:22   position modified [#5609 buy 0.01 EURUSD 1.06724 sl: 1.06724 tp: 1.07284]
+2023.11.13 15:42:00.236	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5609 EURUSD (sl: 1.06724, tp: 1.07284) [done]
+2023.11.13 15:42:00.236	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5609
+2023.11.13 15:42:00.236	2023.01.03 02:04:22   Revisando posición con ticket: 5610
+2023.11.13 15:42:00.236	2023.01.03 02:04:22   position modified [#5610 buy 0.01 EURUSD 1.06722 sl: 1.06722 tp: 1.07312]
+2023.11.13 15:42:00.238	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5610 EURUSD (sl: 1.06722, tp: 1.07312) [done]
+2023.11.13 15:42:00.238	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5610
+2023.11.13 15:42:00.238	2023.01.03 02:04:22   Revisando posición con ticket: 5611
+2023.11.13 15:42:00.238	2023.01.03 02:04:22   position modified [#5611 buy 0.01 EURUSD 1.06721 sl: 1.06721 tp: 1.07331]
+2023.11.13 15:42:00.240	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5611 EURUSD (sl: 1.06721, tp: 1.07331) [done]
+2023.11.13 15:42:00.240	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5611
+2023.11.13 15:42:00.240	2023.01.03 02:04:22   Revisando posición con ticket: 5614
+2023.11.13 15:42:00.240	2023.01.03 02:04:22   position modified [#5614 buy 0.01 EURUSD 1.06720 sl: 1.06720 tp: 1.07360]
+2023.11.13 15:42:00.242	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5614 EURUSD (sl: 1.06720, tp: 1.07360) [done]
+2023.11.13 15:42:00.242	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5614
+2023.11.13 15:42:00.242	2023.01.03 02:04:22   Revisando posición con ticket: 5629
+2023.11.13 15:42:00.242	2023.01.03 02:04:22   position modified [#5629 buy 0.01 EURUSD 1.06718 sl: 1.06718 tp: 1.07358]
+2023.11.13 15:42:00.244	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5629 EURUSD (sl: 1.06718, tp: 1.07358) [done]
+2023.11.13 15:42:00.244	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5629
+2023.11.13 15:42:00.244	2023.01.03 02:04:22   Revisando posición con ticket: 5630
+2023.11.13 15:42:00.244	2023.01.03 02:04:22   position modified [#5630 buy 0.01 EURUSD 1.06719 sl: 1.06719 tp: 1.07359]
+2023.11.13 15:42:00.246	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5630 EURUSD (sl: 1.06719, tp: 1.07359) [done]
+2023.11.13 15:42:00.246	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5630
+2023.11.13 15:42:00.246	2023.01.03 02:04:22   Revisando posición con ticket: 5631
+2023.11.13 15:42:00.246	2023.01.03 02:04:22   position modified [#5631 buy 0.01 EURUSD 1.06720 sl: 1.06720 tp: 1.07360]
+2023.11.13 15:42:00.248	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5631 EURUSD (sl: 1.06720, tp: 1.07360) [done]
+2023.11.13 15:42:00.248	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5631
+2023.11.13 15:42:00.248	2023.01.03 02:04:22   Revisando posición con ticket: 5632
+2023.11.13 15:42:00.248	2023.01.03 02:04:22   position modified [#5632 buy 0.01 EURUSD 1.06722 sl: 1.06722 tp: 1.07312]
+2023.11.13 15:42:00.250	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5632 EURUSD (sl: 1.06722, tp: 1.07312) [done]
+2023.11.13 15:42:00.250	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5632
+2023.11.13 15:42:00.250	2023.01.03 02:04:22   Revisando posición con ticket: 5633
+2023.11.13 15:42:00.250	2023.01.03 02:04:22   position modified [#5633 buy 0.01 EURUSD 1.06723 sl: 1.06723 tp: 1.07313]
+2023.11.13 15:42:00.252	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5633 EURUSD (sl: 1.06723, tp: 1.07313) [done]
+2023.11.13 15:42:00.252	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5633
+2023.11.13 15:42:00.252	2023.01.03 02:04:22   Revisando posición con ticket: 5634
+2023.11.13 15:42:00.252	2023.01.03 02:04:22   position modified [#5634 buy 0.01 EURUSD 1.06724 sl: 1.06724 tp: 1.07284]
+2023.11.13 15:42:00.254	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5634 EURUSD (sl: 1.06724, tp: 1.07284) [done]
+2023.11.13 15:42:00.254	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5634
+2023.11.13 15:42:00.254	2023.01.03 02:04:22   Revisando posición con ticket: 5635
+2023.11.13 15:42:00.254	2023.01.03 02:04:22   position modified [#5635 buy 0.01 EURUSD 1.06726 sl: 1.06726 tp: 1.07276]
+2023.11.13 15:42:00.256	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5635 EURUSD (sl: 1.06726, tp: 1.07276) [done]
+2023.11.13 15:42:00.256	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5635
+2023.11.13 15:42:00.256	2023.01.03 02:04:22   Revisando posición con ticket: 5636
+2023.11.13 15:42:00.256	2023.01.03 02:04:22   position modified [#5636 buy 0.01 EURUSD 1.06727 sl: 1.06727 tp: 1.07277]
+2023.11.13 15:42:00.258	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5636 EURUSD (sl: 1.06727, tp: 1.07277) [done]
+2023.11.13 15:42:00.258	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5636
+2023.11.13 15:42:00.258	2023.01.03 02:04:22   Revisando posición con ticket: 5637
+2023.11.13 15:42:00.258	2023.01.03 02:04:22   position modified [#5637 buy 0.01 EURUSD 1.06726 sl: 1.06726 tp: 1.07276]
+2023.11.13 15:42:00.260	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5637 EURUSD (sl: 1.06726, tp: 1.07276) [done]
+2023.11.13 15:42:00.260	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5637
+2023.11.13 15:42:00.260	2023.01.03 02:04:22   Revisando posición con ticket: 5638
+2023.11.13 15:42:00.260	2023.01.03 02:04:22   position modified [#5638 buy 0.01 EURUSD 1.06727 sl: 1.06727 tp: 1.07277]
+2023.11.13 15:42:00.263	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5638 EURUSD (sl: 1.06727, tp: 1.07277) [done]
+2023.11.13 15:42:00.263	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5638
+2023.11.13 15:42:00.263	2023.01.03 02:04:22   Revisando posición con ticket: 5639
+2023.11.13 15:42:00.263	2023.01.03 02:04:22   position modified [#5639 buy 0.01 EURUSD 1.06726 sl: 1.06726 tp: 1.07276]
+2023.11.13 15:42:00.265	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5639 EURUSD (sl: 1.06726, tp: 1.07276) [done]
+2023.11.13 15:42:00.265	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5639
+2023.11.13 15:42:00.265	2023.01.03 02:04:22   Revisando posición con ticket: 5640
+2023.11.13 15:42:00.265	2023.01.03 02:04:22   position modified [#5640 buy 0.01 EURUSD 1.06727 sl: 1.06727 tp: 1.07277]
+2023.11.13 15:42:00.267	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5640 EURUSD (sl: 1.06727, tp: 1.07277) [done]
+2023.11.13 15:42:00.267	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5640
+2023.11.13 15:42:00.267	2023.01.03 02:04:22   Revisando posición con ticket: 5641
+2023.11.13 15:42:00.267	2023.01.03 02:04:22   position modified [#5641 buy 0.01 EURUSD 1.06725 sl: 1.06725 tp: 1.07285]
+2023.11.13 15:42:00.269	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5641 EURUSD (sl: 1.06725, tp: 1.07285) [done]
+2023.11.13 15:42:00.269	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5641
+2023.11.13 15:42:00.269	2023.01.03 02:04:22   Revisando posición con ticket: 5642
+2023.11.13 15:42:00.269	2023.01.03 02:04:22   position modified [#5642 buy 0.01 EURUSD 1.06726 sl: 1.06726 tp: 1.07276]
+2023.11.13 15:42:00.271	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5642 EURUSD (sl: 1.06726, tp: 1.07276) [done]
+2023.11.13 15:42:00.271	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5642
+2023.11.13 15:42:00.271	2023.01.03 02:04:22   Revisando posición con ticket: 5643
+2023.11.13 15:42:00.271	2023.01.03 02:04:22   position modified [#5643 buy 0.01 EURUSD 1.06727 sl: 1.06727 tp: 1.07277]
+2023.11.13 15:42:00.273	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5643 EURUSD (sl: 1.06727, tp: 1.07277) [done]
+2023.11.13 15:42:00.273	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5643
+2023.11.13 15:42:00.273	2023.01.03 02:04:22   Revisando posición con ticket: 5644
+2023.11.13 15:42:00.273	2023.01.03 02:04:22   position modified [#5644 buy 0.01 EURUSD 1.06729 sl: 1.06729 tp: 1.07239]
+2023.11.13 15:42:00.275	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5644 EURUSD (sl: 1.06729, tp: 1.07239) [done]
+2023.11.13 15:42:00.275	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5644
+2023.11.13 15:42:00.275	2023.01.03 02:04:22   Revisando posición con ticket: 5645
+2023.11.13 15:42:00.275	2023.01.03 02:04:22   position modified [#5645 buy 0.01 EURUSD 1.06730 sl: 1.06730 tp: 1.07240]
+2023.11.13 15:42:00.277	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5645 EURUSD (sl: 1.06730, tp: 1.07240) [done]
+2023.11.13 15:42:00.277	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5645
+2023.11.13 15:42:00.277	2023.01.03 02:04:22   Revisando posición con ticket: 5646
+2023.11.13 15:42:00.277	2023.01.03 02:04:22   position modified [#5646 buy 0.01 EURUSD 1.06731 sl: 1.06731 tp: 1.07231]
+2023.11.13 15:42:00.279	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5646 EURUSD (sl: 1.06731, tp: 1.07231) [done]
+2023.11.13 15:42:00.279	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5646
+2023.11.13 15:42:00.279	2023.01.03 02:04:22   Revisando posición con ticket: 5647
+2023.11.13 15:42:00.279	2023.01.03 02:04:22   position modified [#5647 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07223]
+2023.11.13 15:42:00.281	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5647 EURUSD (sl: 1.06733, tp: 1.07223) [done]
+2023.11.13 15:42:00.281	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5647
+2023.11.13 15:42:00.281	2023.01.03 02:04:22   Revisando posición con ticket: 5648
+2023.11.13 15:42:00.281	2023.01.03 02:04:22   Revisando posición con ticket: 5649
+2023.11.13 15:42:00.281	2023.01.03 02:04:22   position modified [#5649 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07223]
+2023.11.13 15:42:00.283	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5649 EURUSD (sl: 1.06733, tp: 1.07223) [done]
+2023.11.13 15:42:00.283	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5649
+2023.11.13 15:42:00.283	2023.01.03 02:04:22   Revisando posición con ticket: 5650
+2023.11.13 15:42:00.283	2023.01.03 02:04:22   Revisando posición con ticket: 5651
+2023.11.13 15:42:00.283	2023.01.03 02:04:22   position modified [#5651 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07223]
+2023.11.13 15:42:00.285	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5651 EURUSD (sl: 1.06733, tp: 1.07223) [done]
+2023.11.13 15:42:00.285	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5651
+2023.11.13 15:42:00.285	2023.01.03 02:04:22   Revisando posición con ticket: 5652
+2023.11.13 15:42:00.285	2023.01.03 02:04:22   Revisando posición con ticket: 5653
+2023.11.13 15:42:00.285	2023.01.03 02:04:22   position modified [#5653 buy 0.01 EURUSD 1.06732 sl: 1.06732 tp: 1.07222]
+2023.11.13 15:42:00.287	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5653 EURUSD (sl: 1.06732, tp: 1.07222) [done]
+2023.11.13 15:42:00.287	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5653
+2023.11.13 15:42:00.287	2023.01.03 02:04:22   Revisando posición con ticket: 5654
+2023.11.13 15:42:00.287	2023.01.03 02:04:22   position modified [#5654 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07223]
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   CTrade::OrderSend: modify position #5654 EURUSD (sl: 1.06733, tp: 1.07223) [done]
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Ajuste dinámico de SL y TP para la posición 5654
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5655
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5656
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5657
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5658
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5659
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5660
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5661
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5662
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5663
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5664
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5665
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5666
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5667
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5668
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5669
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5670
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5671
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5672
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5694
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5699
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5704
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5706
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5725
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5731
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5736
+2023.11.13 15:42:00.289	2023.01.03 02:04:22   Revisando posición con ticket: 5742
+2023.11.13 15:42:00.293	2023.01.03 02:04:23   ATR: 0.0007492857142857015
+2023.11.13 15:42:00.293	2023.01.03 02:04:23   Additional EMA: 1.0665738960621918
+2023.11.13 15:42:00.293	2023.01.03 02:04:23   MACD Main: 0.0002641925953881241 MACD Signal: 0.00009332010342778307
+2023.11.13 15:42:00.293	2023.01.03 02:04:23   RSI: 62.049863347291186
+2023.11.13 15:42:00.293	2023.01.03 02:04:23   EMA: 1.0665738960621918
+2023.11.13 15:42:00.293	2023.01.03 02:04:23   Buy Condition Met: MACD Main > MACD Signal, RSI between oversold and overbought, Price > EMA and Additional EMA, ATR > MinATRValue
+2023.11.13 15:42:00.293	2023.01.03 02:04:23   current account state: Balance: 9315.17, Credit: 0.00, Commission: 0.00, Accumulated: 0.00, Assets: 0.00, Liabilities: 0.00, Equity 9555.09, Margin: 9562.24, FreeMargin: -7.15
+2023.11.13 15:42:00.293	2023.01.03 02:04:23   calculated account state: Assets: 0.00, Liabilities: 0.00, Equity 9555.09, Margin: 9583.60, FreeMargin: -28.51
+2023.11.13 15:42:00.293	2023.01.03 02:04:23   not enough money [instant buy 0.01 EURUSD at 1.06781 sl: 1.06731 tp: 1.06881]
+2023.11.13 15:42:00.293	2023.01.03 02:04:23   failed instant buy 0.01 EURUSD at 1.06781 sl: 1.06731 tp: 1.06881 [No money]
+2023.11.13 15:42:00.293	2023.01.03 02:04:23   CTrade::OrderSend: instant buy 0.01 EURUSD at 1.06781 sl: 1.06731 tp: 1.06881 [not enough money]
+2023.11.13 15:42:00.293	2023.01.03 02:04:23   Intentando Comprar: Lote = 0.01, Precio = 1.06781, SL = 1.06731, TP = 1.0688099999999998
+2023.11.13 15:42:00.293	2023.01.03 02:04:23   Intentando Vender: Lote = 0.01, Precio = 1.06775, SL = 1.06825, TP = 1.06675
+2023.11.13 15:42:00.293	2023.01.03 02:04:23   Revisando posición con ticket: 4724
+2023.11.13 15:42:00.293	2023.01.03 02:04:23   position modified [#4724 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.295	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4724 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.295	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4724
+2023.11.13 15:42:00.295	2023.01.03 02:04:23   Revisando posición con ticket: 4725
+2023.11.13 15:42:00.295	2023.01.03 02:04:23   position modified [#4725 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.297	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4725 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.297	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4725
+2023.11.13 15:42:00.297	2023.01.03 02:04:23   Revisando posición con ticket: 4726
+2023.11.13 15:42:00.297	2023.01.03 02:04:23   position modified [#4726 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.299	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4726 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.299	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4726
+2023.11.13 15:42:00.299	2023.01.03 02:04:23   Revisando posición con ticket: 4727
+2023.11.13 15:42:00.299	2023.01.03 02:04:23   position modified [#4727 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.301	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4727 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.301	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4727
+2023.11.13 15:42:00.301	2023.01.03 02:04:23   Revisando posición con ticket: 4728
+2023.11.13 15:42:00.301	2023.01.03 02:04:23   position modified [#4728 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.303	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4728 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.303	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4728
+2023.11.13 15:42:00.303	2023.01.03 02:04:23   Revisando posición con ticket: 4729
+2023.11.13 15:42:00.303	2023.01.03 02:04:23   position modified [#4729 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.305	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4729 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.305	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4729
+2023.11.13 15:42:00.305	2023.01.03 02:04:23   Revisando posición con ticket: 4730
+2023.11.13 15:42:00.305	2023.01.03 02:04:23   position modified [#4730 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.307	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4730 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.307	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4730
+2023.11.13 15:42:00.307	2023.01.03 02:04:23   Revisando posición con ticket: 4731
+2023.11.13 15:42:00.307	2023.01.03 02:04:23   position modified [#4731 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.309	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4731 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.309	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4731
+2023.11.13 15:42:00.309	2023.01.03 02:04:23   Revisando posición con ticket: 4732
+2023.11.13 15:42:00.309	2023.01.03 02:04:23   position modified [#4732 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.311	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4732 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.311	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4732
+2023.11.13 15:42:00.311	2023.01.03 02:04:23   Revisando posición con ticket: 4733
+2023.11.13 15:42:00.311	2023.01.03 02:04:23   position modified [#4733 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.313	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4733 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.313	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4733
+2023.11.13 15:42:00.313	2023.01.03 02:04:23   Revisando posición con ticket: 4734
+2023.11.13 15:42:00.313	2023.01.03 02:04:23   position modified [#4734 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.315	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4734 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.315	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4734
+2023.11.13 15:42:00.315	2023.01.03 02:04:23   Revisando posición con ticket: 4735
+2023.11.13 15:42:00.315	2023.01.03 02:04:23   position modified [#4735 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.317	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4735 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.317	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4735
+2023.11.13 15:42:00.317	2023.01.03 02:04:23   Revisando posición con ticket: 4736
+2023.11.13 15:42:00.317	2023.01.03 02:04:23   position modified [#4736 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.319	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4736 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.319	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4736
+2023.11.13 15:42:00.319	2023.01.03 02:04:23   Revisando posición con ticket: 4737
+2023.11.13 15:42:00.319	2023.01.03 02:04:23   position modified [#4737 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.321	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4737 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.321	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4737
+2023.11.13 15:42:00.321	2023.01.03 02:04:23   Revisando posición con ticket: 4738
+2023.11.13 15:42:00.321	2023.01.03 02:04:23   position modified [#4738 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.323	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4738 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.323	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4738
+2023.11.13 15:42:00.323	2023.01.03 02:04:23   Revisando posición con ticket: 4739
+2023.11.13 15:42:00.323	2023.01.03 02:04:23   position modified [#4739 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.325	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4739 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.325	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4739
+2023.11.13 15:42:00.325	2023.01.03 02:04:23   Revisando posición con ticket: 4740
+2023.11.13 15:42:00.325	2023.01.03 02:04:23   position modified [#4740 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.327	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4740 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.327	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4740
+2023.11.13 15:42:00.327	2023.01.03 02:04:23   Revisando posición con ticket: 4741
+2023.11.13 15:42:00.327	2023.01.03 02:04:23   position modified [#4741 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.329	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4741 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.329	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4741
+2023.11.13 15:42:00.329	2023.01.03 02:04:23   Revisando posición con ticket: 4742
+2023.11.13 15:42:00.329	2023.01.03 02:04:23   position modified [#4742 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.331	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4742 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.331	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4742
+2023.11.13 15:42:00.331	2023.01.03 02:04:23   Revisando posición con ticket: 4743
+2023.11.13 15:42:00.331	2023.01.03 02:04:23   position modified [#4743 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.333	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4743 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.333	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4743
+2023.11.13 15:42:00.333	2023.01.03 02:04:23   Revisando posición con ticket: 4744
+2023.11.13 15:42:00.333	2023.01.03 02:04:23   position modified [#4744 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.335	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4744 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.335	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4744
+2023.11.13 15:42:00.335	2023.01.03 02:04:23   Revisando posición con ticket: 4745
+2023.11.13 15:42:00.335	2023.01.03 02:04:23   position modified [#4745 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.337	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4745 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.337	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4745
+2023.11.13 15:42:00.337	2023.01.03 02:04:23   Revisando posición con ticket: 4746
+2023.11.13 15:42:00.337	2023.01.03 02:04:23   position modified [#4746 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.339	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4746 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.339	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4746
+2023.11.13 15:42:00.339	2023.01.03 02:04:23   Revisando posición con ticket: 4747
+2023.11.13 15:42:00.339	2023.01.03 02:04:23   position modified [#4747 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.341	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4747 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.341	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4747
+2023.11.13 15:42:00.341	2023.01.03 02:04:23   Revisando posición con ticket: 4748
+2023.11.13 15:42:00.341	2023.01.03 02:04:23   position modified [#4748 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.343	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4748 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.343	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4748
+2023.11.13 15:42:00.343	2023.01.03 02:04:23   Revisando posición con ticket: 4749
+2023.11.13 15:42:00.343	2023.01.03 02:04:23   position modified [#4749 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.345	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4749 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.345	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4749
+2023.11.13 15:42:00.345	2023.01.03 02:04:23   Revisando posición con ticket: 4750
+2023.11.13 15:42:00.345	2023.01.03 02:04:23   position modified [#4750 buy 0.01 EURUSD 1.06715 sl: 1.06715 tp: 1.08655]
+2023.11.13 15:42:00.347	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4750 EURUSD (sl: 1.06715, tp: 1.08655) [done]
+2023.11.13 15:42:00.347	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4750
+2023.11.13 15:42:00.347	2023.01.03 02:04:23   Revisando posición con ticket: 4751
+2023.11.13 15:42:00.347	2023.01.03 02:04:23   position modified [#4751 buy 0.01 EURUSD 1.06716 sl: 1.06716 tp: 1.08656]
+2023.11.13 15:42:00.349	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4751 EURUSD (sl: 1.06716, tp: 1.08656) [done]
+2023.11.13 15:42:00.349	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4751
+2023.11.13 15:42:00.349	2023.01.03 02:04:23   Revisando posición con ticket: 4752
+2023.11.13 15:42:00.349	2023.01.03 02:04:23   position modified [#4752 buy 0.01 EURUSD 1.06715 sl: 1.06715 tp: 1.08655]
+2023.11.13 15:42:00.351	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4752 EURUSD (sl: 1.06715, tp: 1.08655) [done]
+2023.11.13 15:42:00.351	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4752
+2023.11.13 15:42:00.351	2023.01.03 02:04:23   Revisando posición con ticket: 4753
+2023.11.13 15:42:00.351	2023.01.03 02:04:23   position modified [#4753 buy 0.01 EURUSD 1.06716 sl: 1.06716 tp: 1.08656]
+2023.11.13 15:42:00.353	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4753 EURUSD (sl: 1.06716, tp: 1.08656) [done]
+2023.11.13 15:42:00.353	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4753
+2023.11.13 15:42:00.353	2023.01.03 02:04:23   Revisando posición con ticket: 4754
+2023.11.13 15:42:00.353	2023.01.03 02:04:23   position modified [#4754 buy 0.01 EURUSD 1.06715 sl: 1.06715 tp: 1.08655]
+2023.11.13 15:42:00.355	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4754 EURUSD (sl: 1.06715, tp: 1.08655) [done]
+2023.11.13 15:42:00.355	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4754
+2023.11.13 15:42:00.355	2023.01.03 02:04:23   Revisando posición con ticket: 4755
+2023.11.13 15:42:00.355	2023.01.03 02:04:23   position modified [#4755 buy 0.01 EURUSD 1.06716 sl: 1.06716 tp: 1.08656]
+2023.11.13 15:42:00.357	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4755 EURUSD (sl: 1.06716, tp: 1.08656) [done]
+2023.11.13 15:42:00.357	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4755
+2023.11.13 15:42:00.357	2023.01.03 02:04:23   Revisando posición con ticket: 4813
+2023.11.13 15:42:00.357	2023.01.03 02:04:23   position modified [#4813 buy 0.01 EURUSD 1.06716 sl: 1.06716 tp: 1.08656]
+2023.11.13 15:42:00.359	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4813 EURUSD (sl: 1.06716, tp: 1.08656) [done]
+2023.11.13 15:42:00.359	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4813
+2023.11.13 15:42:00.359	2023.01.03 02:04:23   Revisando posición con ticket: 4815
+2023.11.13 15:42:00.359	2023.01.03 02:04:23   position modified [#4815 buy 0.01 EURUSD 1.06716 sl: 1.06716 tp: 1.08656]
+2023.11.13 15:42:00.361	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4815 EURUSD (sl: 1.06716, tp: 1.08656) [done]
+2023.11.13 15:42:00.361	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4815
+2023.11.13 15:42:00.361	2023.01.03 02:04:23   Revisando posición con ticket: 4817
+2023.11.13 15:42:00.361	2023.01.03 02:04:23   position modified [#4817 buy 0.01 EURUSD 1.06715 sl: 1.06715 tp: 1.08655]
+2023.11.13 15:42:00.363	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4817 EURUSD (sl: 1.06715, tp: 1.08655) [done]
+2023.11.13 15:42:00.363	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4817
+2023.11.13 15:42:00.363	2023.01.03 02:04:23   Revisando posición con ticket: 4818
+2023.11.13 15:42:00.363	2023.01.03 02:04:23   position modified [#4818 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.365	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4818 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.365	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4818
+2023.11.13 15:42:00.365	2023.01.03 02:04:23   Revisando posición con ticket: 4819
+2023.11.13 15:42:00.365	2023.01.03 02:04:23   position modified [#4819 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.367	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4819 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.367	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4819
+2023.11.13 15:42:00.367	2023.01.03 02:04:23   Revisando posición con ticket: 4820
+2023.11.13 15:42:00.367	2023.01.03 02:04:23   position modified [#4820 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.369	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4820 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.369	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4820
+2023.11.13 15:42:00.369	2023.01.03 02:04:23   Revisando posición con ticket: 4821
+2023.11.13 15:42:00.369	2023.01.03 02:04:23   position modified [#4821 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.371	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4821 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.371	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4821
+2023.11.13 15:42:00.371	2023.01.03 02:04:23   Revisando posición con ticket: 4822
+2023.11.13 15:42:00.371	2023.01.03 02:04:23   position modified [#4822 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.373	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4822 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.373	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4822
+2023.11.13 15:42:00.373	2023.01.03 02:04:23   Revisando posición con ticket: 4823
+2023.11.13 15:42:00.373	2023.01.03 02:04:23   position modified [#4823 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.375	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4823 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.375	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4823
+2023.11.13 15:42:00.375	2023.01.03 02:04:23   Revisando posición con ticket: 4825
+2023.11.13 15:42:00.375	2023.01.03 02:04:23   position modified [#4825 buy 0.01 EURUSD 1.06707 sl: 1.06707 tp: 1.09577]
+2023.11.13 15:42:00.377	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4825 EURUSD (sl: 1.06707, tp: 1.09577) [done]
+2023.11.13 15:42:00.377	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4825
+2023.11.13 15:42:00.377	2023.01.03 02:04:23   Revisando posición con ticket: 4826
+2023.11.13 15:42:00.377	2023.01.03 02:04:23   position modified [#4826 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.379	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4826 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.379	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4826
+2023.11.13 15:42:00.379	2023.01.03 02:04:23   Revisando posición con ticket: 4828
+2023.11.13 15:42:00.379	2023.01.03 02:04:23   position modified [#4828 buy 0.01 EURUSD 1.06716 sl: 1.06716 tp: 1.08656]
+2023.11.13 15:42:00.381	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4828 EURUSD (sl: 1.06716, tp: 1.08656) [done]
+2023.11.13 15:42:00.381	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4828
+2023.11.13 15:42:00.381	2023.01.03 02:04:23   Revisando posición con ticket: 4829
+2023.11.13 15:42:00.381	2023.01.03 02:04:23   position modified [#4829 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.383	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4829 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.383	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4829
+2023.11.13 15:42:00.383	2023.01.03 02:04:23   Revisando posición con ticket: 4830
+2023.11.13 15:42:00.383	2023.01.03 02:04:23   position modified [#4830 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.385	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4830 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.385	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4830
+2023.11.13 15:42:00.385	2023.01.03 02:04:23   Revisando posición con ticket: 4831
+2023.11.13 15:42:00.385	2023.01.03 02:04:23   position modified [#4831 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.387	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4831 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.387	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4831
+2023.11.13 15:42:00.387	2023.01.03 02:04:23   Revisando posición con ticket: 4832
+2023.11.13 15:42:00.387	2023.01.03 02:04:23   position modified [#4832 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.389	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4832 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.389	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4832
+2023.11.13 15:42:00.389	2023.01.03 02:04:23   Revisando posición con ticket: 4833
+2023.11.13 15:42:00.389	2023.01.03 02:04:23   position modified [#4833 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.391	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4833 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.391	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4833
+2023.11.13 15:42:00.391	2023.01.03 02:04:23   Revisando posición con ticket: 4834
+2023.11.13 15:42:00.391	2023.01.03 02:04:23   position modified [#4834 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.393	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4834 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.393	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4834
+2023.11.13 15:42:00.393	2023.01.03 02:04:23   Revisando posición con ticket: 4835
+2023.11.13 15:42:00.393	2023.01.03 02:04:23   position modified [#4835 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.395	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4835 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.395	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4835
+2023.11.13 15:42:00.395	2023.01.03 02:04:23   Revisando posición con ticket: 4836
+2023.11.13 15:42:00.395	2023.01.03 02:04:23   position modified [#4836 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.397	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4836 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.397	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4836
+2023.11.13 15:42:00.397	2023.01.03 02:04:23   Revisando posición con ticket: 4837
+2023.11.13 15:42:00.397	2023.01.03 02:04:23   position modified [#4837 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.399	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4837 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.399	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4837
+2023.11.13 15:42:00.399	2023.01.03 02:04:23   Revisando posición con ticket: 4838
+2023.11.13 15:42:00.399	2023.01.03 02:04:23   position modified [#4838 buy 0.01 EURUSD 1.06715 sl: 1.06715 tp: 1.08655]
+2023.11.13 15:42:00.401	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4838 EURUSD (sl: 1.06715, tp: 1.08655) [done]
+2023.11.13 15:42:00.401	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4838
+2023.11.13 15:42:00.401	2023.01.03 02:04:23   Revisando posición con ticket: 4839
+2023.11.13 15:42:00.401	2023.01.03 02:04:23   position modified [#4839 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.403	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4839 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.403	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4839
+2023.11.13 15:42:00.403	2023.01.03 02:04:23   Revisando posición con ticket: 4840
+2023.11.13 15:42:00.403	2023.01.03 02:04:23   position modified [#4840 buy 0.01 EURUSD 1.06716 sl: 1.06716 tp: 1.08656]
+2023.11.13 15:42:00.405	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4840 EURUSD (sl: 1.06716, tp: 1.08656) [done]
+2023.11.13 15:42:00.405	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4840
+2023.11.13 15:42:00.405	2023.01.03 02:04:23   Revisando posición con ticket: 4841
+2023.11.13 15:42:00.405	2023.01.03 02:04:23   position modified [#4841 buy 0.01 EURUSD 1.06715 sl: 1.06715 tp: 1.08655]
+2023.11.13 15:42:00.407	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4841 EURUSD (sl: 1.06715, tp: 1.08655) [done]
+2023.11.13 15:42:00.407	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4841
+2023.11.13 15:42:00.407	2023.01.03 02:04:23   Revisando posición con ticket: 4843
+2023.11.13 15:42:00.407	2023.01.03 02:04:23   position modified [#4843 buy 0.01 EURUSD 1.06716 sl: 1.06716 tp: 1.08656]
+2023.11.13 15:42:00.409	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4843 EURUSD (sl: 1.06716, tp: 1.08656) [done]
+2023.11.13 15:42:00.409	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4843
+2023.11.13 15:42:00.409	2023.01.03 02:04:23   Revisando posición con ticket: 4844
+2023.11.13 15:42:00.409	2023.01.03 02:04:23   position modified [#4844 buy 0.01 EURUSD 1.06715 sl: 1.06715 tp: 1.08655]
+2023.11.13 15:42:00.411	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4844 EURUSD (sl: 1.06715, tp: 1.08655) [done]
+2023.11.13 15:42:00.411	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4844
+2023.11.13 15:42:00.411	2023.01.03 02:04:23   Revisando posición con ticket: 4845
+2023.11.13 15:42:00.411	2023.01.03 02:04:23   position modified [#4845 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.413	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4845 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.413	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4845
+2023.11.13 15:42:00.413	2023.01.03 02:04:23   Revisando posición con ticket: 4846
+2023.11.13 15:42:00.413	2023.01.03 02:04:23   position modified [#4846 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.415	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4846 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.415	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4846
+2023.11.13 15:42:00.415	2023.01.03 02:04:23   Revisando posición con ticket: 4847
+2023.11.13 15:42:00.415	2023.01.03 02:04:23   position modified [#4847 buy 0.01 EURUSD 1.06715 sl: 1.06715 tp: 1.08655]
+2023.11.13 15:42:00.417	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4847 EURUSD (sl: 1.06715, tp: 1.08655) [done]
+2023.11.13 15:42:00.417	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4847
+2023.11.13 15:42:00.417	2023.01.03 02:04:23   Revisando posición con ticket: 4848
+2023.11.13 15:42:00.417	2023.01.03 02:04:23   position modified [#4848 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.419	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4848 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.419	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4848
+2023.11.13 15:42:00.419	2023.01.03 02:04:23   Revisando posición con ticket: 4849
+2023.11.13 15:42:00.419	2023.01.03 02:04:23   position modified [#4849 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.421	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4849 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.421	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4849
+2023.11.13 15:42:00.421	2023.01.03 02:04:23   Revisando posición con ticket: 4850
+2023.11.13 15:42:00.421	2023.01.03 02:04:23   position modified [#4850 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.423	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4850 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.423	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4850
+2023.11.13 15:42:00.423	2023.01.03 02:04:23   Revisando posición con ticket: 4851
+2023.11.13 15:42:00.423	2023.01.03 02:04:23   position modified [#4851 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.425	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4851 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.425	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4851
+2023.11.13 15:42:00.425	2023.01.03 02:04:23   Revisando posición con ticket: 4852
+2023.11.13 15:42:00.425	2023.01.03 02:04:23   position modified [#4852 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.427	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4852 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.427	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4852
+2023.11.13 15:42:00.427	2023.01.03 02:04:23   Revisando posición con ticket: 4853
+2023.11.13 15:42:00.427	2023.01.03 02:04:23   position modified [#4853 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.429	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4853 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.429	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4853
+2023.11.13 15:42:00.429	2023.01.03 02:04:23   Revisando posición con ticket: 4854
+2023.11.13 15:42:00.429	2023.01.03 02:04:23   position modified [#4854 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.431	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4854 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.431	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4854
+2023.11.13 15:42:00.431	2023.01.03 02:04:23   Revisando posición con ticket: 4855
+2023.11.13 15:42:00.431	2023.01.03 02:04:23   position modified [#4855 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.433	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4855 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.433	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4855
+2023.11.13 15:42:00.433	2023.01.03 02:04:23   Revisando posición con ticket: 4856
+2023.11.13 15:42:00.433	2023.01.03 02:04:23   position modified [#4856 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.435	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4856 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.435	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4856
+2023.11.13 15:42:00.435	2023.01.03 02:04:23   Revisando posición con ticket: 4857
+2023.11.13 15:42:00.435	2023.01.03 02:04:23   position modified [#4857 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.437	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4857 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.437	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4857
+2023.11.13 15:42:00.437	2023.01.03 02:04:23   Revisando posición con ticket: 4858
+2023.11.13 15:42:00.437	2023.01.03 02:04:23   position modified [#4858 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.439	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4858 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.439	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4858
+2023.11.13 15:42:00.439	2023.01.03 02:04:23   Revisando posición con ticket: 4859
+2023.11.13 15:42:00.439	2023.01.03 02:04:23   position modified [#4859 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.441	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4859 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.441	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4859
+2023.11.13 15:42:00.441	2023.01.03 02:04:23   Revisando posición con ticket: 4860
+2023.11.13 15:42:00.441	2023.01.03 02:04:23   position modified [#4860 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.443	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4860 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.443	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4860
+2023.11.13 15:42:00.443	2023.01.03 02:04:23   Revisando posición con ticket: 4861
+2023.11.13 15:42:00.443	2023.01.03 02:04:23   position modified [#4861 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.445	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4861 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.445	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4861
+2023.11.13 15:42:00.445	2023.01.03 02:04:23   Revisando posición con ticket: 4862
+2023.11.13 15:42:00.445	2023.01.03 02:04:23   position modified [#4862 buy 0.01 EURUSD 1.06707 sl: 1.06707 tp: 1.09577]
+2023.11.13 15:42:00.447	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4862 EURUSD (sl: 1.06707, tp: 1.09577) [done]
+2023.11.13 15:42:00.447	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4862
+2023.11.13 15:42:00.447	2023.01.03 02:04:23   Revisando posición con ticket: 4863
+2023.11.13 15:42:00.447	2023.01.03 02:04:23   position modified [#4863 buy 0.01 EURUSD 1.06704 sl: 1.06704 tp: 1.09894]
+2023.11.13 15:42:00.449	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4863 EURUSD (sl: 1.06704, tp: 1.09894) [done]
+2023.11.13 15:42:00.449	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4863
+2023.11.13 15:42:00.449	2023.01.03 02:04:23   Revisando posición con ticket: 4864
+2023.11.13 15:42:00.449	2023.01.03 02:04:23   position modified [#4864 buy 0.01 EURUSD 1.06707 sl: 1.06707 tp: 1.09577]
+2023.11.13 15:42:00.451	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4864 EURUSD (sl: 1.06707, tp: 1.09577) [done]
+2023.11.13 15:42:00.451	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4864
+2023.11.13 15:42:00.451	2023.01.03 02:04:23   Revisando posición con ticket: 4865
+2023.11.13 15:42:00.451	2023.01.03 02:04:23   position modified [#4865 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.453	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4865 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.453	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4865
+2023.11.13 15:42:00.453	2023.01.03 02:04:23   Revisando posición con ticket: 4866
+2023.11.13 15:42:00.453	2023.01.03 02:04:23   position modified [#4866 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.455	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4866 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.455	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4866
+2023.11.13 15:42:00.455	2023.01.03 02:04:23   Revisando posición con ticket: 4867
+2023.11.13 15:42:00.455	2023.01.03 02:04:23   position modified [#4867 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.457	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4867 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.457	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4867
+2023.11.13 15:42:00.457	2023.01.03 02:04:23   Revisando posición con ticket: 4868
+2023.11.13 15:42:00.457	2023.01.03 02:04:23   position modified [#4868 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.459	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4868 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.459	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4868
+2023.11.13 15:42:00.459	2023.01.03 02:04:23   Revisando posición con ticket: 4869
+2023.11.13 15:42:00.459	2023.01.03 02:04:23   position modified [#4869 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.461	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4869 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.461	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4869
+2023.11.13 15:42:00.461	2023.01.03 02:04:23   Revisando posición con ticket: 4870
+2023.11.13 15:42:00.461	2023.01.03 02:04:23   position modified [#4870 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.463	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4870 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.463	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4870
+2023.11.13 15:42:00.463	2023.01.03 02:04:23   Revisando posición con ticket: 4871
+2023.11.13 15:42:00.463	2023.01.03 02:04:23   position modified [#4871 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.465	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4871 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.465	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4871
+2023.11.13 15:42:00.465	2023.01.03 02:04:23   Revisando posición con ticket: 4872
+2023.11.13 15:42:00.465	2023.01.03 02:04:23   position modified [#4872 buy 0.01 EURUSD 1.06707 sl: 1.06707 tp: 1.09577]
+2023.11.13 15:42:00.467	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4872 EURUSD (sl: 1.06707, tp: 1.09577) [done]
+2023.11.13 15:42:00.467	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4872
+2023.11.13 15:42:00.467	2023.01.03 02:04:23   Revisando posición con ticket: 4873
+2023.11.13 15:42:00.467	2023.01.03 02:04:23   position modified [#4873 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.469	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4873 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.469	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4873
+2023.11.13 15:42:00.469	2023.01.03 02:04:23   Revisando posición con ticket: 4874
+2023.11.13 15:42:00.469	2023.01.03 02:04:23   position modified [#4874 buy 0.01 EURUSD 1.06706 sl: 1.06706 tp: 1.09766]
+2023.11.13 15:42:00.471	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4874 EURUSD (sl: 1.06706, tp: 1.09766) [done]
+2023.11.13 15:42:00.471	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4874
+2023.11.13 15:42:00.471	2023.01.03 02:04:23   Revisando posición con ticket: 4875
+2023.11.13 15:42:00.471	2023.01.03 02:04:23   position modified [#4875 buy 0.01 EURUSD 1.06703 sl: 1.06703 tp: 1.10143]
+2023.11.13 15:42:00.473	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4875 EURUSD (sl: 1.06703, tp: 1.10143) [done]
+2023.11.13 15:42:00.473	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4875
+2023.11.13 15:42:00.473	2023.01.03 02:04:23   Revisando posición con ticket: 4876
+2023.11.13 15:42:00.473	2023.01.03 02:04:23   position modified [#4876 buy 0.01 EURUSD 1.06702 sl: 1.06702 tp: 1.10142]
+2023.11.13 15:42:00.475	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4876 EURUSD (sl: 1.06702, tp: 1.10142) [done]
+2023.11.13 15:42:00.475	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4876
+2023.11.13 15:42:00.475	2023.01.03 02:04:23   Revisando posición con ticket: 4877
+2023.11.13 15:42:00.475	2023.01.03 02:04:23   position modified [#4877 buy 0.01 EURUSD 1.06704 sl: 1.06704 tp: 1.09894]
+2023.11.13 15:42:00.477	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4877 EURUSD (sl: 1.06704, tp: 1.09894) [done]
+2023.11.13 15:42:00.477	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4877
+2023.11.13 15:42:00.477	2023.01.03 02:04:23   Revisando posición con ticket: 4878
+2023.11.13 15:42:00.477	2023.01.03 02:04:23   position modified [#4878 buy 0.01 EURUSD 1.06701 sl: 1.06701 tp: 1.10271]
+2023.11.13 15:42:00.479	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4878 EURUSD (sl: 1.06701, tp: 1.10271) [done]
+2023.11.13 15:42:00.479	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4878
+2023.11.13 15:42:00.479	2023.01.03 02:04:23   Revisando posición con ticket: 4879
+2023.11.13 15:42:00.479	2023.01.03 02:04:23   position modified [#4879 buy 0.01 EURUSD 1.06698 sl: 1.06698 tp: 1.10718]
+2023.11.13 15:42:00.481	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4879 EURUSD (sl: 1.06698, tp: 1.10718) [done]
+2023.11.13 15:42:00.481	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4879
+2023.11.13 15:42:00.481	2023.01.03 02:04:23   Revisando posición con ticket: 4880
+2023.11.13 15:42:00.481	2023.01.03 02:04:23   position modified [#4880 buy 0.01 EURUSD 1.06699 sl: 1.06699 tp: 1.10539]
+2023.11.13 15:42:00.483	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4880 EURUSD (sl: 1.06699, tp: 1.10539) [done]
+2023.11.13 15:42:00.483	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4880
+2023.11.13 15:42:00.483	2023.01.03 02:04:23   Revisando posición con ticket: 4881
+2023.11.13 15:42:00.483	2023.01.03 02:04:23   position modified [#4881 buy 0.01 EURUSD 1.06698 sl: 1.06698 tp: 1.10718]
+2023.11.13 15:42:00.485	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4881 EURUSD (sl: 1.06698, tp: 1.10718) [done]
+2023.11.13 15:42:00.485	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4881
+2023.11.13 15:42:00.485	2023.01.03 02:04:23   Revisando posición con ticket: 4882
+2023.11.13 15:42:00.485	2023.01.03 02:04:23   position modified [#4882 buy 0.01 EURUSD 1.06699 sl: 1.06699 tp: 1.10539]
+2023.11.13 15:42:00.487	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4882 EURUSD (sl: 1.06699, tp: 1.10539) [done]
+2023.11.13 15:42:00.487	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4882
+2023.11.13 15:42:00.487	2023.01.03 02:04:23   Revisando posición con ticket: 4883
+2023.11.13 15:42:00.487	2023.01.03 02:04:23   position modified [#4883 buy 0.01 EURUSD 1.06698 sl: 1.06698 tp: 1.10718]
+2023.11.13 15:42:00.489	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4883 EURUSD (sl: 1.06698, tp: 1.10718) [done]
+2023.11.13 15:42:00.489	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4883
+2023.11.13 15:42:00.489	2023.01.03 02:04:23   Revisando posición con ticket: 4884
+2023.11.13 15:42:00.489	2023.01.03 02:04:23   position modified [#4884 buy 0.01 EURUSD 1.06699 sl: 1.06699 tp: 1.10539]
+2023.11.13 15:42:00.491	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4884 EURUSD (sl: 1.06699, tp: 1.10539) [done]
+2023.11.13 15:42:00.491	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4884
+2023.11.13 15:42:00.491	2023.01.03 02:04:23   Revisando posición con ticket: 4885
+2023.11.13 15:42:00.491	2023.01.03 02:04:23   position modified [#4885 buy 0.01 EURUSD 1.06698 sl: 1.06698 tp: 1.10718]
+2023.11.13 15:42:00.493	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4885 EURUSD (sl: 1.06698, tp: 1.10718) [done]
+2023.11.13 15:42:00.493	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4885
+2023.11.13 15:42:00.493	2023.01.03 02:04:23   Revisando posición con ticket: 4886
+2023.11.13 15:42:00.493	2023.01.03 02:04:23   position modified [#4886 buy 0.01 EURUSD 1.06699 sl: 1.06699 tp: 1.10539]
+2023.11.13 15:42:00.495	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4886 EURUSD (sl: 1.06699, tp: 1.10539) [done]
+2023.11.13 15:42:00.495	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4886
+2023.11.13 15:42:00.495	2023.01.03 02:04:23   Revisando posición con ticket: 4887
+2023.11.13 15:42:00.495	2023.01.03 02:04:23   position modified [#4887 buy 0.01 EURUSD 1.06698 sl: 1.06698 tp: 1.10718]
+2023.11.13 15:42:00.497	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4887 EURUSD (sl: 1.06698, tp: 1.10718) [done]
+2023.11.13 15:42:00.497	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4887
+2023.11.13 15:42:00.497	2023.01.03 02:04:23   Revisando posición con ticket: 4888
+2023.11.13 15:42:00.497	2023.01.03 02:04:23   position modified [#4888 buy 0.01 EURUSD 1.06699 sl: 1.06699 tp: 1.10539]
+2023.11.13 15:42:00.499	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4888 EURUSD (sl: 1.06699, tp: 1.10539) [done]
+2023.11.13 15:42:00.499	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4888
+2023.11.13 15:42:00.499	2023.01.03 02:04:23   Revisando posición con ticket: 4889
+2023.11.13 15:42:00.499	2023.01.03 02:04:23   position modified [#4889 buy 0.01 EURUSD 1.06704 sl: 1.06704 tp: 1.09894]
+2023.11.13 15:42:00.501	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4889 EURUSD (sl: 1.06704, tp: 1.09894) [done]
+2023.11.13 15:42:00.501	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4889
+2023.11.13 15:42:00.501	2023.01.03 02:04:23   Revisando posición con ticket: 4890
+2023.11.13 15:42:00.501	2023.01.03 02:04:23   position modified [#4890 buy 0.01 EURUSD 1.06702 sl: 1.06702 tp: 1.10142]
+2023.11.13 15:42:00.503	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4890 EURUSD (sl: 1.06702, tp: 1.10142) [done]
+2023.11.13 15:42:00.503	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4890
+2023.11.13 15:42:00.503	2023.01.03 02:04:23   Revisando posición con ticket: 4893
+2023.11.13 15:42:00.503	2023.01.03 02:04:23   position modified [#4893 buy 0.01 EURUSD 1.06700 sl: 1.06700 tp: 1.10380]
+2023.11.13 15:42:00.505	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4893 EURUSD (sl: 1.06700, tp: 1.10380) [done]
+2023.11.13 15:42:00.505	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4893
+2023.11.13 15:42:00.505	2023.01.03 02:04:23   Revisando posición con ticket: 4894
+2023.11.13 15:42:00.505	2023.01.03 02:04:23   position modified [#4894 buy 0.01 EURUSD 1.06699 sl: 1.06699 tp: 1.10539]
+2023.11.13 15:42:00.507	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4894 EURUSD (sl: 1.06699, tp: 1.10539) [done]
+2023.11.13 15:42:00.507	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4894
+2023.11.13 15:42:00.507	2023.01.03 02:04:23   Revisando posición con ticket: 4895
+2023.11.13 15:42:00.507	2023.01.03 02:04:23   position modified [#4895 buy 0.01 EURUSD 1.06701 sl: 1.06701 tp: 1.10271]
+2023.11.13 15:42:00.509	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4895 EURUSD (sl: 1.06701, tp: 1.10271) [done]
+2023.11.13 15:42:00.509	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4895
+2023.11.13 15:42:00.509	2023.01.03 02:04:23   Revisando posición con ticket: 4896
+2023.11.13 15:42:00.509	2023.01.03 02:04:23   position modified [#4896 buy 0.01 EURUSD 1.06700 sl: 1.06700 tp: 1.10380]
+2023.11.13 15:42:00.511	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4896 EURUSD (sl: 1.06700, tp: 1.10380) [done]
+2023.11.13 15:42:00.511	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4896
+2023.11.13 15:42:00.511	2023.01.03 02:04:23   Revisando posición con ticket: 4897
+2023.11.13 15:42:00.511	2023.01.03 02:04:23   position modified [#4897 buy 0.01 EURUSD 1.06699 sl: 1.06699 tp: 1.10539]
+2023.11.13 15:42:00.513	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4897 EURUSD (sl: 1.06699, tp: 1.10539) [done]
+2023.11.13 15:42:00.513	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4897
+2023.11.13 15:42:00.513	2023.01.03 02:04:23   Revisando posición con ticket: 4898
+2023.11.13 15:42:00.513	2023.01.03 02:04:23   position modified [#4898 buy 0.01 EURUSD 1.06701 sl: 1.06701 tp: 1.10271]
+2023.11.13 15:42:00.515	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4898 EURUSD (sl: 1.06701, tp: 1.10271) [done]
+2023.11.13 15:42:00.515	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4898
+2023.11.13 15:42:00.515	2023.01.03 02:04:23   Revisando posición con ticket: 4899
+2023.11.13 15:42:00.515	2023.01.03 02:04:23   position modified [#4899 buy 0.01 EURUSD 1.06703 sl: 1.06703 tp: 1.10143]
+2023.11.13 15:42:00.517	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4899 EURUSD (sl: 1.06703, tp: 1.10143) [done]
+2023.11.13 15:42:00.517	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4899
+2023.11.13 15:42:00.517	2023.01.03 02:04:23   Revisando posición con ticket: 4900
+2023.11.13 15:42:00.517	2023.01.03 02:04:23   position modified [#4900 buy 0.01 EURUSD 1.06702 sl: 1.06702 tp: 1.10142]
+2023.11.13 15:42:00.519	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4900 EURUSD (sl: 1.06702, tp: 1.10142) [done]
+2023.11.13 15:42:00.519	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4900
+2023.11.13 15:42:00.519	2023.01.03 02:04:23   Revisando posición con ticket: 4901
+2023.11.13 15:42:00.519	2023.01.03 02:04:23   position modified [#4901 buy 0.01 EURUSD 1.06703 sl: 1.06703 tp: 1.10143]
+2023.11.13 15:42:00.520	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4901 EURUSD (sl: 1.06703, tp: 1.10143) [done]
+2023.11.13 15:42:00.520	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4901
+2023.11.13 15:42:00.520	2023.01.03 02:04:23   Revisando posición con ticket: 4902
+2023.11.13 15:42:00.520	2023.01.03 02:04:23   position modified [#4902 buy 0.01 EURUSD 1.06702 sl: 1.06702 tp: 1.10142]
+2023.11.13 15:42:00.522	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4902 EURUSD (sl: 1.06702, tp: 1.10142) [done]
+2023.11.13 15:42:00.522	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4902
+2023.11.13 15:42:00.522	2023.01.03 02:04:23   Revisando posición con ticket: 4903
+2023.11.13 15:42:00.522	2023.01.03 02:04:23   position modified [#4903 buy 0.01 EURUSD 1.06703 sl: 1.06703 tp: 1.10143]
+2023.11.13 15:42:00.524	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4903 EURUSD (sl: 1.06703, tp: 1.10143) [done]
+2023.11.13 15:42:00.524	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4903
+2023.11.13 15:42:00.524	2023.01.03 02:04:23   Revisando posición con ticket: 4904
+2023.11.13 15:42:00.524	2023.01.03 02:04:23   position modified [#4904 buy 0.01 EURUSD 1.06704 sl: 1.06704 tp: 1.09894]
+2023.11.13 15:42:00.526	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4904 EURUSD (sl: 1.06704, tp: 1.09894) [done]
+2023.11.13 15:42:00.526	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4904
+2023.11.13 15:42:00.526	2023.01.03 02:04:23   Revisando posición con ticket: 4905
+2023.11.13 15:42:00.526	2023.01.03 02:04:23   position modified [#4905 buy 0.01 EURUSD 1.06706 sl: 1.06706 tp: 1.09766]
+2023.11.13 15:42:00.528	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4905 EURUSD (sl: 1.06706, tp: 1.09766) [done]
+2023.11.13 15:42:00.528	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4905
+2023.11.13 15:42:00.528	2023.01.03 02:04:23   Revisando posición con ticket: 4906
+2023.11.13 15:42:00.528	2023.01.03 02:04:23   position modified [#4906 buy 0.01 EURUSD 1.06705 sl: 1.06705 tp: 1.09765]
+2023.11.13 15:42:00.530	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4906 EURUSD (sl: 1.06705, tp: 1.09765) [done]
+2023.11.13 15:42:00.530	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4906
+2023.11.13 15:42:00.530	2023.01.03 02:04:23   Revisando posición con ticket: 4907
+2023.11.13 15:42:00.530	2023.01.03 02:04:23   position modified [#4907 buy 0.01 EURUSD 1.06706 sl: 1.06706 tp: 1.09766]
+2023.11.13 15:42:00.532	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4907 EURUSD (sl: 1.06706, tp: 1.09766) [done]
+2023.11.13 15:42:00.532	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4907
+2023.11.13 15:42:00.532	2023.01.03 02:04:23   Revisando posición con ticket: 4908
+2023.11.13 15:42:00.532	2023.01.03 02:04:23   position modified [#4908 buy 0.01 EURUSD 1.06705 sl: 1.06705 tp: 1.09765]
+2023.11.13 15:42:00.534	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4908 EURUSD (sl: 1.06705, tp: 1.09765) [done]
+2023.11.13 15:42:00.534	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4908
+2023.11.13 15:42:00.534	2023.01.03 02:04:23   Revisando posición con ticket: 4909
+2023.11.13 15:42:00.534	2023.01.03 02:04:23   position modified [#4909 buy 0.01 EURUSD 1.06706 sl: 1.06706 tp: 1.09766]
+2023.11.13 15:42:00.536	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4909 EURUSD (sl: 1.06706, tp: 1.09766) [done]
+2023.11.13 15:42:00.536	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4909
+2023.11.13 15:42:00.536	2023.01.03 02:04:23   Revisando posición con ticket: 4910
+2023.11.13 15:42:00.536	2023.01.03 02:04:23   position modified [#4910 buy 0.01 EURUSD 1.06707 sl: 1.06707 tp: 1.09577]
+2023.11.13 15:42:00.538	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4910 EURUSD (sl: 1.06707, tp: 1.09577) [done]
+2023.11.13 15:42:00.538	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4910
+2023.11.13 15:42:00.538	2023.01.03 02:04:23   Revisando posición con ticket: 4911
+2023.11.13 15:42:00.538	2023.01.03 02:04:23   position modified [#4911 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.540	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4911 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.540	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4911
+2023.11.13 15:42:00.540	2023.01.03 02:04:23   Revisando posición con ticket: 4912
+2023.11.13 15:42:00.540	2023.01.03 02:04:23   position modified [#4912 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.542	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4912 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.542	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4912
+2023.11.13 15:42:00.542	2023.01.03 02:04:23   Revisando posición con ticket: 4913
+2023.11.13 15:42:00.542	2023.01.03 02:04:23   position modified [#4913 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.544	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4913 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.544	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4913
+2023.11.13 15:42:00.544	2023.01.03 02:04:23   Revisando posición con ticket: 4914
+2023.11.13 15:42:00.544	2023.01.03 02:04:23   position modified [#4914 buy 0.01 EURUSD 1.06707 sl: 1.06707 tp: 1.09577]
+2023.11.13 15:42:00.546	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4914 EURUSD (sl: 1.06707, tp: 1.09577) [done]
+2023.11.13 15:42:00.546	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4914
+2023.11.13 15:42:00.546	2023.01.03 02:04:23   Revisando posición con ticket: 4915
+2023.11.13 15:42:00.546	2023.01.03 02:04:23   position modified [#4915 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.548	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4915 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.548	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4915
+2023.11.13 15:42:00.548	2023.01.03 02:04:23   Revisando posición con ticket: 4916
+2023.11.13 15:42:00.548	2023.01.03 02:04:23   position modified [#4916 buy 0.01 EURUSD 1.06707 sl: 1.06707 tp: 1.09577]
+2023.11.13 15:42:00.550	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4916 EURUSD (sl: 1.06707, tp: 1.09577) [done]
+2023.11.13 15:42:00.550	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4916
+2023.11.13 15:42:00.550	2023.01.03 02:04:23   Revisando posición con ticket: 4917
+2023.11.13 15:42:00.550	2023.01.03 02:04:23   position modified [#4917 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.552	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4917 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.552	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4917
+2023.11.13 15:42:00.552	2023.01.03 02:04:23   Revisando posición con ticket: 4918
+2023.11.13 15:42:00.552	2023.01.03 02:04:23   position modified [#4918 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.553	stopped by user
+2023.11.13 15:42:00.554	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4918 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.554	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4918
+2023.11.13 15:42:00.554	2023.01.03 02:04:23   Revisando posición con ticket: 4919
+2023.11.13 15:42:00.554	2023.01.03 02:04:23   position modified [#4919 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.556	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4919 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.556	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4919
+2023.11.13 15:42:00.556	2023.01.03 02:04:23   Revisando posición con ticket: 4920
+2023.11.13 15:42:00.556	2023.01.03 02:04:23   position modified [#4920 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.557	prepare for shutdown
+2023.11.13 15:42:00.558	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4920 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.558	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4920
+2023.11.13 15:42:00.558	2023.01.03 02:04:23   Revisando posición con ticket: 4921
+2023.11.13 15:42:00.558	2023.01.03 02:04:23   position modified [#4921 buy 0.01 EURUSD 1.06707 sl: 1.06707 tp: 1.09577]
+2023.11.13 15:42:00.560	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4921 EURUSD (sl: 1.06707, tp: 1.09577) [done]
+2023.11.13 15:42:00.560	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4921
+2023.11.13 15:42:00.560	2023.01.03 02:04:23   Revisando posición con ticket: 4922
+2023.11.13 15:42:00.560	2023.01.03 02:04:23   position modified [#4922 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.562	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4922 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.562	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4922
+2023.11.13 15:42:00.562	2023.01.03 02:04:23   Revisando posición con ticket: 4923
+2023.11.13 15:42:00.562	2023.01.03 02:04:23   position modified [#4923 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.564	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4923 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.564	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4923
+2023.11.13 15:42:00.564	2023.01.03 02:04:23   Revisando posición con ticket: 4924
+2023.11.13 15:42:00.564	2023.01.03 02:04:23   position modified [#4924 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.566	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4924 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.566	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4924
+2023.11.13 15:42:00.566	2023.01.03 02:04:23   Revisando posición con ticket: 4925
+2023.11.13 15:42:00.566	2023.01.03 02:04:23   position modified [#4925 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.568	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4925 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.568	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4925
+2023.11.13 15:42:00.568	2023.01.03 02:04:23   Revisando posición con ticket: 4926
+2023.11.13 15:42:00.568	2023.01.03 02:04:23   position modified [#4926 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.570	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4926 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.570	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4926
+2023.11.13 15:42:00.570	2023.01.03 02:04:23   Revisando posición con ticket: 4927
+2023.11.13 15:42:00.570	2023.01.03 02:04:23   position modified [#4927 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.572	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4927 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.572	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4927
+2023.11.13 15:42:00.572	2023.01.03 02:04:23   Revisando posición con ticket: 4928
+2023.11.13 15:42:00.572	2023.01.03 02:04:23   position modified [#4928 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.574	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4928 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.574	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4928
+2023.11.13 15:42:00.574	2023.01.03 02:04:23   Revisando posición con ticket: 4929
+2023.11.13 15:42:00.574	2023.01.03 02:04:23   position modified [#4929 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.576	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4929 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.576	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4929
+2023.11.13 15:42:00.576	2023.01.03 02:04:23   Revisando posición con ticket: 4930
+2023.11.13 15:42:00.576	2023.01.03 02:04:23   position modified [#4930 buy 0.01 EURUSD 1.06715 sl: 1.06715 tp: 1.08655]
+2023.11.13 15:42:00.578	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4930 EURUSD (sl: 1.06715, tp: 1.08655) [done]
+2023.11.13 15:42:00.578	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4930
+2023.11.13 15:42:00.578	2023.01.03 02:04:23   Revisando posición con ticket: 4931
+2023.11.13 15:42:00.578	2023.01.03 02:04:23   position modified [#4931 buy 0.01 EURUSD 1.06716 sl: 1.06716 tp: 1.08656]
+2023.11.13 15:42:00.580	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4931 EURUSD (sl: 1.06716, tp: 1.08656) [done]
+2023.11.13 15:42:00.580	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4931
+2023.11.13 15:42:00.580	2023.01.03 02:04:23   Revisando posición con ticket: 4932
+2023.11.13 15:42:00.580	2023.01.03 02:04:23   position modified [#4932 buy 0.01 EURUSD 1.06715 sl: 1.06715 tp: 1.08655]
+2023.11.13 15:42:00.582	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4932 EURUSD (sl: 1.06715, tp: 1.08655) [done]
+2023.11.13 15:42:00.582	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4932
+2023.11.13 15:42:00.582	2023.01.03 02:04:23   Revisando posición con ticket: 4933
+2023.11.13 15:42:00.582	2023.01.03 02:04:23   position modified [#4933 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.584	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4933 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.584	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4933
+2023.11.13 15:42:00.584	2023.01.03 02:04:23   Revisando posición con ticket: 4934
+2023.11.13 15:42:00.584	2023.01.03 02:04:23   position modified [#4934 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.586	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4934 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.586	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4934
+2023.11.13 15:42:00.586	2023.01.03 02:04:23   Revisando posición con ticket: 4935
+2023.11.13 15:42:00.586	2023.01.03 02:04:23   position modified [#4935 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.588	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4935 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.588	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4935
+2023.11.13 15:42:00.588	2023.01.03 02:04:23   Revisando posición con ticket: 4936
+2023.11.13 15:42:00.588	2023.01.03 02:04:23   position modified [#4936 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.590	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4936 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.590	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4936
+2023.11.13 15:42:00.590	2023.01.03 02:04:23   Revisando posición con ticket: 4937
+2023.11.13 15:42:00.590	2023.01.03 02:04:23   position modified [#4937 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.592	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4937 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.592	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4937
+2023.11.13 15:42:00.592	2023.01.03 02:04:23   Revisando posición con ticket: 4938
+2023.11.13 15:42:00.592	2023.01.03 02:04:23   position modified [#4938 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.594	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4938 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.594	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4938
+2023.11.13 15:42:00.594	2023.01.03 02:04:23   Revisando posición con ticket: 4939
+2023.11.13 15:42:00.594	2023.01.03 02:04:23   position modified [#4939 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.596	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4939 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.596	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4939
+2023.11.13 15:42:00.596	2023.01.03 02:04:23   Revisando posición con ticket: 4940
+2023.11.13 15:42:00.596	2023.01.03 02:04:23   position modified [#4940 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.598	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4940 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.598	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4940
+2023.11.13 15:42:00.598	2023.01.03 02:04:23   Revisando posición con ticket: 4941
+2023.11.13 15:42:00.598	2023.01.03 02:04:23   position modified [#4941 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.600	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4941 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.600	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4941
+2023.11.13 15:42:00.600	2023.01.03 02:04:23   Revisando posición con ticket: 4942
+2023.11.13 15:42:00.600	2023.01.03 02:04:23   position modified [#4942 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.602	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4942 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.602	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4942
+2023.11.13 15:42:00.602	2023.01.03 02:04:23   Revisando posición con ticket: 4943
+2023.11.13 15:42:00.602	2023.01.03 02:04:23   position modified [#4943 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.604	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4943 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.604	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4943
+2023.11.13 15:42:00.604	2023.01.03 02:04:23   Revisando posición con ticket: 4944
+2023.11.13 15:42:00.604	2023.01.03 02:04:23   position modified [#4944 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.606	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4944 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.606	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4944
+2023.11.13 15:42:00.606	2023.01.03 02:04:23   Revisando posición con ticket: 4945
+2023.11.13 15:42:00.606	2023.01.03 02:04:23   position modified [#4945 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.608	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4945 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.608	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4945
+2023.11.13 15:42:00.608	2023.01.03 02:04:23   Revisando posición con ticket: 4946
+2023.11.13 15:42:00.608	2023.01.03 02:04:23   position modified [#4946 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.610	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4946 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.610	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4946
+2023.11.13 15:42:00.610	2023.01.03 02:04:23   Revisando posición con ticket: 4947
+2023.11.13 15:42:00.610	2023.01.03 02:04:23   position modified [#4947 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.612	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4947 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.612	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4947
+2023.11.13 15:42:00.612	2023.01.03 02:04:23   Revisando posición con ticket: 4948
+2023.11.13 15:42:00.612	2023.01.03 02:04:23   position modified [#4948 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.614	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4948 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.614	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4948
+2023.11.13 15:42:00.614	2023.01.03 02:04:23   Revisando posición con ticket: 4949
+2023.11.13 15:42:00.614	2023.01.03 02:04:23   position modified [#4949 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.616	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4949 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.616	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4949
+2023.11.13 15:42:00.616	2023.01.03 02:04:23   Revisando posición con ticket: 4950
+2023.11.13 15:42:00.616	2023.01.03 02:04:23   position modified [#4950 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.618	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4950 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.618	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4950
+2023.11.13 15:42:00.618	2023.01.03 02:04:23   Revisando posición con ticket: 4951
+2023.11.13 15:42:00.618	2023.01.03 02:04:23   position modified [#4951 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.620	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4951 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.620	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4951
+2023.11.13 15:42:00.620	2023.01.03 02:04:23   Revisando posición con ticket: 4952
+2023.11.13 15:42:00.620	2023.01.03 02:04:23   position modified [#4952 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.622	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4952 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.622	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4952
+2023.11.13 15:42:00.622	2023.01.03 02:04:23   Revisando posición con ticket: 4953
+2023.11.13 15:42:00.622	2023.01.03 02:04:23   position modified [#4953 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.624	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4953 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.624	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4953
+2023.11.13 15:42:00.624	2023.01.03 02:04:23   Revisando posición con ticket: 4954
+2023.11.13 15:42:00.624	2023.01.03 02:04:23   position modified [#4954 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.626	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4954 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.626	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4954
+2023.11.13 15:42:00.626	2023.01.03 02:04:23   Revisando posición con ticket: 4955
+2023.11.13 15:42:00.626	2023.01.03 02:04:23   position modified [#4955 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.628	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4955 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.628	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4955
+2023.11.13 15:42:00.628	2023.01.03 02:04:23   Revisando posición con ticket: 4956
+2023.11.13 15:42:00.628	2023.01.03 02:04:23   position modified [#4956 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.630	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4956 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.630	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4956
+2023.11.13 15:42:00.630	2023.01.03 02:04:23   Revisando posición con ticket: 4957
+2023.11.13 15:42:00.630	2023.01.03 02:04:23   position modified [#4957 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.632	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4957 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.632	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4957
+2023.11.13 15:42:00.632	2023.01.03 02:04:23   Revisando posición con ticket: 4958
+2023.11.13 15:42:00.632	2023.01.03 02:04:23   position modified [#4958 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.634	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4958 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.634	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4958
+2023.11.13 15:42:00.634	2023.01.03 02:04:23   Revisando posición con ticket: 4959
+2023.11.13 15:42:00.634	2023.01.03 02:04:23   position modified [#4959 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.636	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4959 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.636	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4959
+2023.11.13 15:42:00.636	2023.01.03 02:04:23   Revisando posición con ticket: 4960
+2023.11.13 15:42:00.636	2023.01.03 02:04:23   position modified [#4960 buy 0.01 EURUSD 1.06707 sl: 1.06707 tp: 1.09577]
+2023.11.13 15:42:00.638	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4960 EURUSD (sl: 1.06707, tp: 1.09577) [done]
+2023.11.13 15:42:00.638	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4960
+2023.11.13 15:42:00.638	2023.01.03 02:04:23   Revisando posición con ticket: 4961
+2023.11.13 15:42:00.638	2023.01.03 02:04:23   position modified [#4961 buy 0.01 EURUSD 1.06706 sl: 1.06706 tp: 1.09766]
+2023.11.13 15:42:00.640	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4961 EURUSD (sl: 1.06706, tp: 1.09766) [done]
+2023.11.13 15:42:00.640	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4961
+2023.11.13 15:42:00.640	2023.01.03 02:04:23   Revisando posición con ticket: 4962
+2023.11.13 15:42:00.640	2023.01.03 02:04:23   position modified [#4962 buy 0.01 EURUSD 1.06704 sl: 1.06704 tp: 1.09894]
+2023.11.13 15:42:00.642	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4962 EURUSD (sl: 1.06704, tp: 1.09894) [done]
+2023.11.13 15:42:00.642	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4962
+2023.11.13 15:42:00.642	2023.01.03 02:04:23   Revisando posición con ticket: 4963
+2023.11.13 15:42:00.642	2023.01.03 02:04:23   position modified [#4963 buy 0.01 EURUSD 1.06703 sl: 1.06703 tp: 1.10143]
+2023.11.13 15:42:00.644	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4963 EURUSD (sl: 1.06703, tp: 1.10143) [done]
+2023.11.13 15:42:00.644	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4963
+2023.11.13 15:42:00.644	2023.01.03 02:04:23   Revisando posición con ticket: 4964
+2023.11.13 15:42:00.644	2023.01.03 02:04:23   position modified [#4964 buy 0.01 EURUSD 1.06704 sl: 1.06704 tp: 1.09894]
+2023.11.13 15:42:00.646	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4964 EURUSD (sl: 1.06704, tp: 1.09894) [done]
+2023.11.13 15:42:00.646	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4964
+2023.11.13 15:42:00.646	2023.01.03 02:04:23   Revisando posición con ticket: 4965
+2023.11.13 15:42:00.646	2023.01.03 02:04:23   position modified [#4965 buy 0.01 EURUSD 1.06703 sl: 1.06703 tp: 1.10143]
+2023.11.13 15:42:00.648	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4965 EURUSD (sl: 1.06703, tp: 1.10143) [done]
+2023.11.13 15:42:00.648	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4965
+2023.11.13 15:42:00.648	2023.01.03 02:04:23   Revisando posición con ticket: 4966
+2023.11.13 15:42:00.648	2023.01.03 02:04:23   position modified [#4966 buy 0.01 EURUSD 1.06705 sl: 1.06705 tp: 1.09765]
+2023.11.13 15:42:00.650	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4966 EURUSD (sl: 1.06705, tp: 1.09765) [done]
+2023.11.13 15:42:00.650	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4966
+2023.11.13 15:42:00.650	2023.01.03 02:04:23   Revisando posición con ticket: 4967
+2023.11.13 15:42:00.650	2023.01.03 02:04:23   position modified [#4967 buy 0.01 EURUSD 1.06704 sl: 1.06704 tp: 1.09894]
+2023.11.13 15:42:00.652	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4967 EURUSD (sl: 1.06704, tp: 1.09894) [done]
+2023.11.13 15:42:00.652	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4967
+2023.11.13 15:42:00.652	2023.01.03 02:04:23   Revisando posición con ticket: 4968
+2023.11.13 15:42:00.652	2023.01.03 02:04:23   position modified [#4968 buy 0.01 EURUSD 1.06703 sl: 1.06703 tp: 1.10143]
+2023.11.13 15:42:00.654	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4968 EURUSD (sl: 1.06703, tp: 1.10143) [done]
+2023.11.13 15:42:00.654	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4968
+2023.11.13 15:42:00.654	2023.01.03 02:04:23   Revisando posición con ticket: 4969
+2023.11.13 15:42:00.654	2023.01.03 02:04:23   position modified [#4969 buy 0.01 EURUSD 1.06702 sl: 1.06702 tp: 1.10142]
+2023.11.13 15:42:00.656	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4969 EURUSD (sl: 1.06702, tp: 1.10142) [done]
+2023.11.13 15:42:00.656	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4969
+2023.11.13 15:42:00.656	2023.01.03 02:04:23   Revisando posición con ticket: 4970
+2023.11.13 15:42:00.656	2023.01.03 02:04:23   position modified [#4970 buy 0.01 EURUSD 1.06700 sl: 1.06700 tp: 1.10380]
+2023.11.13 15:42:00.658	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4970 EURUSD (sl: 1.06700, tp: 1.10380) [done]
+2023.11.13 15:42:00.658	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4970
+2023.11.13 15:42:00.658	2023.01.03 02:04:23   Revisando posición con ticket: 4971
+2023.11.13 15:42:00.658	2023.01.03 02:04:23   position modified [#4971 buy 0.01 EURUSD 1.06699 sl: 1.06699 tp: 1.10539]
+2023.11.13 15:42:00.660	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4971 EURUSD (sl: 1.06699, tp: 1.10539) [done]
+2023.11.13 15:42:00.660	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4971
+2023.11.13 15:42:00.660	2023.01.03 02:04:23   Revisando posición con ticket: 4972
+2023.11.13 15:42:00.660	2023.01.03 02:04:23   position modified [#4972 buy 0.01 EURUSD 1.06700 sl: 1.06700 tp: 1.10380]
+2023.11.13 15:42:00.662	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4972 EURUSD (sl: 1.06700, tp: 1.10380) [done]
+2023.11.13 15:42:00.662	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4972
+2023.11.13 15:42:00.662	2023.01.03 02:04:23   Revisando posición con ticket: 4973
+2023.11.13 15:42:00.662	2023.01.03 02:04:23   position modified [#4973 buy 0.01 EURUSD 1.06699 sl: 1.06699 tp: 1.10539]
+2023.11.13 15:42:00.664	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4973 EURUSD (sl: 1.06699, tp: 1.10539) [done]
+2023.11.13 15:42:00.664	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4973
+2023.11.13 15:42:00.664	2023.01.03 02:04:23   Revisando posición con ticket: 4974
+2023.11.13 15:42:00.664	2023.01.03 02:04:23   position modified [#4974 buy 0.01 EURUSD 1.06701 sl: 1.06701 tp: 1.10271]
+2023.11.13 15:42:00.666	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4974 EURUSD (sl: 1.06701, tp: 1.10271) [done]
+2023.11.13 15:42:00.666	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4974
+2023.11.13 15:42:00.666	2023.01.03 02:04:23   Revisando posición con ticket: 4975
+2023.11.13 15:42:00.666	2023.01.03 02:04:23   position modified [#4975 buy 0.01 EURUSD 1.06700 sl: 1.06700 tp: 1.10380]
+2023.11.13 15:42:00.668	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4975 EURUSD (sl: 1.06700, tp: 1.10380) [done]
+2023.11.13 15:42:00.668	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4975
+2023.11.13 15:42:00.668	2023.01.03 02:04:23   Revisando posición con ticket: 4976
+2023.11.13 15:42:00.668	2023.01.03 02:04:23   position modified [#4976 buy 0.01 EURUSD 1.06699 sl: 1.06699 tp: 1.10539]
+2023.11.13 15:42:00.670	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4976 EURUSD (sl: 1.06699, tp: 1.10539) [done]
+2023.11.13 15:42:00.670	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4976
+2023.11.13 15:42:00.670	2023.01.03 02:04:23   Revisando posición con ticket: 4977
+2023.11.13 15:42:00.670	2023.01.03 02:04:23   position modified [#4977 buy 0.01 EURUSD 1.06698 sl: 1.06698 tp: 1.10718]
+2023.11.13 15:42:00.672	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4977 EURUSD (sl: 1.06698, tp: 1.10718) [done]
+2023.11.13 15:42:00.672	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4977
+2023.11.13 15:42:00.672	2023.01.03 02:04:23   Revisando posición con ticket: 4985
+2023.11.13 15:42:00.672	2023.01.03 02:04:23   position modified [#4985 buy 0.01 EURUSD 1.06696 sl: 1.06696 tp: 1.11336]
+2023.11.13 15:42:00.674	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4985 EURUSD (sl: 1.06696, tp: 1.11336) [done]
+2023.11.13 15:42:00.674	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4985
+2023.11.13 15:42:00.674	2023.01.03 02:04:23   Revisando posición con ticket: 4990
+2023.11.13 15:42:00.674	2023.01.03 02:04:23   position modified [#4990 buy 0.01 EURUSD 1.06695 sl: 1.06695 tp: 1.11335]
+2023.11.13 15:42:00.676	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4990 EURUSD (sl: 1.06695, tp: 1.11335) [done]
+2023.11.13 15:42:00.676	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4990
+2023.11.13 15:42:00.676	2023.01.03 02:04:23   Revisando posición con ticket: 4991
+2023.11.13 15:42:00.676	2023.01.03 02:04:23   position modified [#4991 buy 0.01 EURUSD 1.06696 sl: 1.06696 tp: 1.11336]
+2023.11.13 15:42:00.678	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4991 EURUSD (sl: 1.06696, tp: 1.11336) [done]
+2023.11.13 15:42:00.678	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4991
+2023.11.13 15:42:00.678	2023.01.03 02:04:23   Revisando posición con ticket: 4992
+2023.11.13 15:42:00.678	2023.01.03 02:04:23   position modified [#4992 buy 0.01 EURUSD 1.06695 sl: 1.06695 tp: 1.11335]
+2023.11.13 15:42:00.680	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4992 EURUSD (sl: 1.06695, tp: 1.11335) [done]
+2023.11.13 15:42:00.680	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4992
+2023.11.13 15:42:00.680	2023.01.03 02:04:23   Revisando posición con ticket: 4993
+2023.11.13 15:42:00.680	2023.01.03 02:04:23   position modified [#4993 buy 0.01 EURUSD 1.06697 sl: 1.06697 tp: 1.10997]
+2023.11.13 15:42:00.682	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4993 EURUSD (sl: 1.06697, tp: 1.10997) [done]
+2023.11.13 15:42:00.682	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4993
+2023.11.13 15:42:00.682	2023.01.03 02:04:23   Revisando posición con ticket: 4994
+2023.11.13 15:42:00.682	2023.01.03 02:04:23   position modified [#4994 buy 0.01 EURUSD 1.06696 sl: 1.06696 tp: 1.11336]
+2023.11.13 15:42:00.684	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4994 EURUSD (sl: 1.06696, tp: 1.11336) [done]
+2023.11.13 15:42:00.684	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4994
+2023.11.13 15:42:00.684	2023.01.03 02:04:23   Revisando posición con ticket: 4999
+2023.11.13 15:42:00.684	2023.01.03 02:04:23   position modified [#4999 buy 0.01 EURUSD 1.06694 sl: 1.06694 tp: 1.11514]
+2023.11.13 15:42:00.686	2023.01.03 02:04:23   CTrade::OrderSend: modify position #4999 EURUSD (sl: 1.06694, tp: 1.11514) [done]
+2023.11.13 15:42:00.686	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 4999
+2023.11.13 15:42:00.686	2023.01.03 02:04:23   Revisando posición con ticket: 5001
+2023.11.13 15:42:00.686	2023.01.03 02:04:23   position modified [#5001 buy 0.01 EURUSD 1.06693 sl: 1.06693 tp: 1.11893]
+2023.11.13 15:42:00.688	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5001 EURUSD (sl: 1.06693, tp: 1.11893) [done]
+2023.11.13 15:42:00.688	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5001
+2023.11.13 15:42:00.688	2023.01.03 02:04:23   Revisando posición con ticket: 5004
+2023.11.13 15:42:00.688	2023.01.03 02:04:23   position modified [#5004 buy 0.01 EURUSD 1.06691 sl: 1.06691 tp: 1.12141]
+2023.11.13 15:42:00.690	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5004 EURUSD (sl: 1.06691, tp: 1.12141) [done]
+2023.11.13 15:42:00.690	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5004
+2023.11.13 15:42:00.690	2023.01.03 02:04:23   Revisando posición con ticket: 5005
+2023.11.13 15:42:00.690	2023.01.03 02:04:23   position modified [#5005 buy 0.01 EURUSD 1.06693 sl: 1.06693 tp: 1.11893]
+2023.11.13 15:42:00.692	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5005 EURUSD (sl: 1.06693, tp: 1.11893) [done]
+2023.11.13 15:42:00.692	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5005
+2023.11.13 15:42:00.692	2023.01.03 02:04:23   Revisando posición con ticket: 5006
+2023.11.13 15:42:00.692	2023.01.03 02:04:23   position modified [#5006 buy 0.01 EURUSD 1.06696 sl: 1.06696 tp: 1.11336]
+2023.11.13 15:42:00.694	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5006 EURUSD (sl: 1.06696, tp: 1.11336) [done]
+2023.11.13 15:42:00.694	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5006
+2023.11.13 15:42:00.694	2023.01.03 02:04:23   Revisando posición con ticket: 5007
+2023.11.13 15:42:00.694	2023.01.03 02:04:23   position modified [#5007 buy 0.01 EURUSD 1.06699 sl: 1.06699 tp: 1.10539]
+2023.11.13 15:42:00.696	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5007 EURUSD (sl: 1.06699, tp: 1.10539) [done]
+2023.11.13 15:42:00.696	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5007
+2023.11.13 15:42:00.696	2023.01.03 02:04:23   Revisando posición con ticket: 5008
+2023.11.13 15:42:00.696	2023.01.03 02:04:23   position modified [#5008 buy 0.01 EURUSD 1.06702 sl: 1.06702 tp: 1.10142]
+2023.11.13 15:42:00.698	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5008 EURUSD (sl: 1.06702, tp: 1.10142) [done]
+2023.11.13 15:42:00.698	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5008
+2023.11.13 15:42:00.698	2023.01.03 02:04:23   Revisando posición con ticket: 5009
+2023.11.13 15:42:00.698	2023.01.03 02:04:23   position modified [#5009 buy 0.01 EURUSD 1.06701 sl: 1.06701 tp: 1.10271]
+2023.11.13 15:42:00.700	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5009 EURUSD (sl: 1.06701, tp: 1.10271) [done]
+2023.11.13 15:42:00.700	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5009
+2023.11.13 15:42:00.700	2023.01.03 02:04:23   Revisando posición con ticket: 5010
+2023.11.13 15:42:00.700	2023.01.03 02:04:23   position modified [#5010 buy 0.01 EURUSD 1.06700 sl: 1.06700 tp: 1.10380]
+2023.11.13 15:42:00.702	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5010 EURUSD (sl: 1.06700, tp: 1.10380) [done]
+2023.11.13 15:42:00.702	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5010
+2023.11.13 15:42:00.702	2023.01.03 02:04:23   Revisando posición con ticket: 5011
+2023.11.13 15:42:00.702	2023.01.03 02:04:23   position modified [#5011 buy 0.01 EURUSD 1.06699 sl: 1.06699 tp: 1.10539]
+2023.11.13 15:42:00.704	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5011 EURUSD (sl: 1.06699, tp: 1.10539) [done]
+2023.11.13 15:42:00.704	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5011
+2023.11.13 15:42:00.704	2023.01.03 02:04:23   Revisando posición con ticket: 5012
+2023.11.13 15:42:00.704	2023.01.03 02:04:23   position modified [#5012 buy 0.01 EURUSD 1.06698 sl: 1.06698 tp: 1.10718]
+2023.11.13 15:42:00.706	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5012 EURUSD (sl: 1.06698, tp: 1.10718) [done]
+2023.11.13 15:42:00.706	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5012
+2023.11.13 15:42:00.706	2023.01.03 02:04:23   Revisando posición con ticket: 5013
+2023.11.13 15:42:00.706	2023.01.03 02:04:23   position modified [#5013 buy 0.01 EURUSD 1.06699 sl: 1.06699 tp: 1.10539]
+2023.11.13 15:42:00.708	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5013 EURUSD (sl: 1.06699, tp: 1.10539) [done]
+2023.11.13 15:42:00.708	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5013
+2023.11.13 15:42:00.708	2023.01.03 02:04:23   Revisando posición con ticket: 5014
+2023.11.13 15:42:00.708	2023.01.03 02:04:23   position modified [#5014 buy 0.01 EURUSD 1.06700 sl: 1.06700 tp: 1.10380]
+2023.11.13 15:42:00.710	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5014 EURUSD (sl: 1.06700, tp: 1.10380) [done]
+2023.11.13 15:42:00.710	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5014
+2023.11.13 15:42:00.710	2023.01.03 02:04:23   Revisando posición con ticket: 5015
+2023.11.13 15:42:00.710	2023.01.03 02:04:23   position modified [#5015 buy 0.01 EURUSD 1.06701 sl: 1.06701 tp: 1.10271]
+2023.11.13 15:42:00.712	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5015 EURUSD (sl: 1.06701, tp: 1.10271) [done]
+2023.11.13 15:42:00.712	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5015
+2023.11.13 15:42:00.712	2023.01.03 02:04:23   Revisando posición con ticket: 5016
+2023.11.13 15:42:00.712	2023.01.03 02:04:23   position modified [#5016 buy 0.01 EURUSD 1.06702 sl: 1.06702 tp: 1.10142]
+2023.11.13 15:42:00.714	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5016 EURUSD (sl: 1.06702, tp: 1.10142) [done]
+2023.11.13 15:42:00.714	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5016
+2023.11.13 15:42:00.714	2023.01.03 02:04:23   Revisando posición con ticket: 5017
+2023.11.13 15:42:00.714	2023.01.03 02:04:23   position modified [#5017 buy 0.01 EURUSD 1.06703 sl: 1.06703 tp: 1.10143]
+2023.11.13 15:42:00.716	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5017 EURUSD (sl: 1.06703, tp: 1.10143) [done]
+2023.11.13 15:42:00.716	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5017
+2023.11.13 15:42:00.716	2023.01.03 02:04:23   Revisando posición con ticket: 5018
+2023.11.13 15:42:00.716	2023.01.03 02:04:23   position modified [#5018 buy 0.01 EURUSD 1.06704 sl: 1.06704 tp: 1.09894]
+2023.11.13 15:42:00.718	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5018 EURUSD (sl: 1.06704, tp: 1.09894) [done]
+2023.11.13 15:42:00.718	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5018
+2023.11.13 15:42:00.718	2023.01.03 02:04:23   Revisando posición con ticket: 5019
+2023.11.13 15:42:00.718	2023.01.03 02:04:23   position modified [#5019 buy 0.01 EURUSD 1.06705 sl: 1.06705 tp: 1.09765]
+2023.11.13 15:42:00.720	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5019 EURUSD (sl: 1.06705, tp: 1.09765) [done]
+2023.11.13 15:42:00.720	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5019
+2023.11.13 15:42:00.720	2023.01.03 02:04:23   Revisando posición con ticket: 5020
+2023.11.13 15:42:00.720	2023.01.03 02:04:23   position modified [#5020 buy 0.01 EURUSD 1.06706 sl: 1.06706 tp: 1.09766]
+2023.11.13 15:42:00.722	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5020 EURUSD (sl: 1.06706, tp: 1.09766) [done]
+2023.11.13 15:42:00.722	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5020
+2023.11.13 15:42:00.722	2023.01.03 02:04:23   Revisando posición con ticket: 5021
+2023.11.13 15:42:00.722	2023.01.03 02:04:23   position modified [#5021 buy 0.01 EURUSD 1.06701 sl: 1.06701 tp: 1.10271]
+2023.11.13 15:42:00.724	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5021 EURUSD (sl: 1.06701, tp: 1.10271) [done]
+2023.11.13 15:42:00.724	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5021
+2023.11.13 15:42:00.724	2023.01.03 02:04:23   Revisando posición con ticket: 5022
+2023.11.13 15:42:00.724	2023.01.03 02:04:23   position modified [#5022 buy 0.01 EURUSD 1.06700 sl: 1.06700 tp: 1.10380]
+2023.11.13 15:42:00.726	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5022 EURUSD (sl: 1.06700, tp: 1.10380) [done]
+2023.11.13 15:42:00.726	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5022
+2023.11.13 15:42:00.726	2023.01.03 02:04:23   Revisando posición con ticket: 5023
+2023.11.13 15:42:00.726	2023.01.03 02:04:23   position modified [#5023 buy 0.01 EURUSD 1.06699 sl: 1.06699 tp: 1.10539]
+2023.11.13 15:42:00.728	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5023 EURUSD (sl: 1.06699, tp: 1.10539) [done]
+2023.11.13 15:42:00.728	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5023
+2023.11.13 15:42:00.728	2023.01.03 02:04:23   Revisando posición con ticket: 5024
+2023.11.13 15:42:00.728	2023.01.03 02:04:23   position modified [#5024 buy 0.01 EURUSD 1.06700 sl: 1.06700 tp: 1.10380]
+2023.11.13 15:42:00.730	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5024 EURUSD (sl: 1.06700, tp: 1.10380) [done]
+2023.11.13 15:42:00.730	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5024
+2023.11.13 15:42:00.730	2023.01.03 02:04:23   Revisando posición con ticket: 5025
+2023.11.13 15:42:00.730	2023.01.03 02:04:23   position modified [#5025 buy 0.01 EURUSD 1.06701 sl: 1.06701 tp: 1.10271]
+2023.11.13 15:42:00.732	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5025 EURUSD (sl: 1.06701, tp: 1.10271) [done]
+2023.11.13 15:42:00.732	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5025
+2023.11.13 15:42:00.732	2023.01.03 02:04:23   Revisando posición con ticket: 5026
+2023.11.13 15:42:00.732	2023.01.03 02:04:23   position modified [#5026 buy 0.01 EURUSD 1.06699 sl: 1.06699 tp: 1.10539]
+2023.11.13 15:42:00.734	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5026 EURUSD (sl: 1.06699, tp: 1.10539) [done]
+2023.11.13 15:42:00.734	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5026
+2023.11.13 15:42:00.734	2023.01.03 02:04:23   Revisando posición con ticket: 5027
+2023.11.13 15:42:00.734	2023.01.03 02:04:23   position modified [#5027 buy 0.01 EURUSD 1.06701 sl: 1.06701 tp: 1.10271]
+2023.11.13 15:42:00.736	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5027 EURUSD (sl: 1.06701, tp: 1.10271) [done]
+2023.11.13 15:42:00.736	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5027
+2023.11.13 15:42:00.736	2023.01.03 02:04:23   Revisando posición con ticket: 5028
+2023.11.13 15:42:00.736	2023.01.03 02:04:23   position modified [#5028 buy 0.01 EURUSD 1.06703 sl: 1.06703 tp: 1.10143]
+2023.11.13 15:42:00.738	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5028 EURUSD (sl: 1.06703, tp: 1.10143) [done]
+2023.11.13 15:42:00.738	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5028
+2023.11.13 15:42:00.738	2023.01.03 02:04:23   Revisando posición con ticket: 5029
+2023.11.13 15:42:00.738	2023.01.03 02:04:23   position modified [#5029 buy 0.01 EURUSD 1.06704 sl: 1.06704 tp: 1.09894]
+2023.11.13 15:42:00.740	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5029 EURUSD (sl: 1.06704, tp: 1.09894) [done]
+2023.11.13 15:42:00.740	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5029
+2023.11.13 15:42:00.740	2023.01.03 02:04:23   Revisando posición con ticket: 5030
+2023.11.13 15:42:00.740	2023.01.03 02:04:23   position modified [#5030 buy 0.01 EURUSD 1.06702 sl: 1.06702 tp: 1.10142]
+2023.11.13 15:42:00.742	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5030 EURUSD (sl: 1.06702, tp: 1.10142) [done]
+2023.11.13 15:42:00.742	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5030
+2023.11.13 15:42:00.742	2023.01.03 02:04:23   Revisando posición con ticket: 5031
+2023.11.13 15:42:00.742	2023.01.03 02:04:23   position modified [#5031 buy 0.01 EURUSD 1.06704 sl: 1.06704 tp: 1.09894]
+2023.11.13 15:42:00.744	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5031 EURUSD (sl: 1.06704, tp: 1.09894) [done]
+2023.11.13 15:42:00.744	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5031
+2023.11.13 15:42:00.744	2023.01.03 02:04:23   Revisando posición con ticket: 5032
+2023.11.13 15:42:00.744	2023.01.03 02:04:23   position modified [#5032 buy 0.01 EURUSD 1.06706 sl: 1.06706 tp: 1.09766]
+2023.11.13 15:42:00.746	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5032 EURUSD (sl: 1.06706, tp: 1.09766) [done]
+2023.11.13 15:42:00.746	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5032
+2023.11.13 15:42:00.746	2023.01.03 02:04:23   Revisando posición con ticket: 5033
+2023.11.13 15:42:00.746	2023.01.03 02:04:23   position modified [#5033 buy 0.01 EURUSD 1.06707 sl: 1.06707 tp: 1.09577]
+2023.11.13 15:42:00.748	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5033 EURUSD (sl: 1.06707, tp: 1.09577) [done]
+2023.11.13 15:42:00.748	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5033
+2023.11.13 15:42:00.748	2023.01.03 02:04:23   Revisando posición con ticket: 5034
+2023.11.13 15:42:00.748	2023.01.03 02:04:23   position modified [#5034 buy 0.01 EURUSD 1.06705 sl: 1.06705 tp: 1.09765]
+2023.11.13 15:42:00.750	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5034 EURUSD (sl: 1.06705, tp: 1.09765) [done]
+2023.11.13 15:42:00.750	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5034
+2023.11.13 15:42:00.750	2023.01.03 02:04:23   Revisando posición con ticket: 5035
+2023.11.13 15:42:00.750	2023.01.03 02:04:23   position modified [#5035 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.752	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5035 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.752	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5035
+2023.11.13 15:42:00.752	2023.01.03 02:04:23   Revisando posición con ticket: 5036
+2023.11.13 15:42:00.752	2023.01.03 02:04:23   position modified [#5036 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.754	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5036 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.754	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5036
+2023.11.13 15:42:00.754	2023.01.03 02:04:23   Revisando posición con ticket: 5037
+2023.11.13 15:42:00.754	2023.01.03 02:04:23   position modified [#5037 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.756	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5037 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.756	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5037
+2023.11.13 15:42:00.756	2023.01.03 02:04:23   Revisando posición con ticket: 5038
+2023.11.13 15:42:00.756	2023.01.03 02:04:23   position modified [#5038 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.758	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5038 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.758	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5038
+2023.11.13 15:42:00.758	2023.01.03 02:04:23   Revisando posición con ticket: 5039
+2023.11.13 15:42:00.758	2023.01.03 02:04:23   position modified [#5039 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.760	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5039 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.760	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5039
+2023.11.13 15:42:00.760	2023.01.03 02:04:23   Revisando posición con ticket: 5040
+2023.11.13 15:42:00.760	2023.01.03 02:04:23   position modified [#5040 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.762	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5040 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.762	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5040
+2023.11.13 15:42:00.762	2023.01.03 02:04:23   Revisando posición con ticket: 5041
+2023.11.13 15:42:00.762	2023.01.03 02:04:23   position modified [#5041 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.764	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5041 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.764	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5041
+2023.11.13 15:42:00.764	2023.01.03 02:04:23   Revisando posición con ticket: 5042
+2023.11.13 15:42:00.764	2023.01.03 02:04:23   position modified [#5042 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.766	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5042 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.766	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5042
+2023.11.13 15:42:00.766	2023.01.03 02:04:23   Revisando posición con ticket: 5043
+2023.11.13 15:42:00.766	2023.01.03 02:04:23   position modified [#5043 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.768	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5043 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.768	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5043
+2023.11.13 15:42:00.768	2023.01.03 02:04:23   Revisando posición con ticket: 5044
+2023.11.13 15:42:00.768	2023.01.03 02:04:23   position modified [#5044 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.770	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5044 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.770	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5044
+2023.11.13 15:42:00.770	2023.01.03 02:04:23   Revisando posición con ticket: 5045
+2023.11.13 15:42:00.770	2023.01.03 02:04:23   position modified [#5045 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.772	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5045 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.772	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5045
+2023.11.13 15:42:00.772	2023.01.03 02:04:23   Revisando posición con ticket: 5046
+2023.11.13 15:42:00.772	2023.01.03 02:04:23   position modified [#5046 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.774	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5046 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.774	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5046
+2023.11.13 15:42:00.774	2023.01.03 02:04:23   Revisando posición con ticket: 5047
+2023.11.13 15:42:00.774	2023.01.03 02:04:23   position modified [#5047 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.776	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5047 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.776	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5047
+2023.11.13 15:42:00.776	2023.01.03 02:04:23   Revisando posición con ticket: 5048
+2023.11.13 15:42:00.776	2023.01.03 02:04:23   position modified [#5048 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.779	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5048 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.779	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5048
+2023.11.13 15:42:00.779	2023.01.03 02:04:23   Revisando posición con ticket: 5049
+2023.11.13 15:42:00.779	2023.01.03 02:04:23   position modified [#5049 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.781	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5049 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.781	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5049
+2023.11.13 15:42:00.781	2023.01.03 02:04:23   Revisando posición con ticket: 5050
+2023.11.13 15:42:00.781	2023.01.03 02:04:23   position modified [#5050 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.783	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5050 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.783	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5050
+2023.11.13 15:42:00.783	2023.01.03 02:04:23   Revisando posición con ticket: 5051
+2023.11.13 15:42:00.783	2023.01.03 02:04:23   position modified [#5051 buy 0.01 EURUSD 1.06709 sl: 1.06709 tp: 1.09369]
+2023.11.13 15:42:00.785	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5051 EURUSD (sl: 1.06709, tp: 1.09369) [done]
+2023.11.13 15:42:00.785	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5051
+2023.11.13 15:42:00.785	2023.01.03 02:04:23   Revisando posición con ticket: 5052
+2023.11.13 15:42:00.785	2023.01.03 02:04:23   position modified [#5052 buy 0.01 EURUSD 1.06708 sl: 1.06708 tp: 1.09478]
+2023.11.13 15:42:00.787	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5052 EURUSD (sl: 1.06708, tp: 1.09478) [done]
+2023.11.13 15:42:00.787	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5052
+2023.11.13 15:42:00.787	2023.01.03 02:04:23   Revisando posición con ticket: 5053
+2023.11.13 15:42:00.787	2023.01.03 02:04:23   position modified [#5053 buy 0.01 EURUSD 1.06710 sl: 1.06710 tp: 1.09170]
+2023.11.13 15:42:00.789	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5053 EURUSD (sl: 1.06710, tp: 1.09170) [done]
+2023.11.13 15:42:00.789	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5053
+2023.11.13 15:42:00.789	2023.01.03 02:04:23   Revisando posición con ticket: 5054
+2023.11.13 15:42:00.789	2023.01.03 02:04:23   position modified [#5054 buy 0.01 EURUSD 1.06712 sl: 1.06712 tp: 1.08852]
+2023.11.13 15:42:00.791	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5054 EURUSD (sl: 1.06712, tp: 1.08852) [done]
+2023.11.13 15:42:00.791	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5054
+2023.11.13 15:42:00.791	2023.01.03 02:04:23   Revisando posición con ticket: 5055
+2023.11.13 15:42:00.791	2023.01.03 02:04:23   position modified [#5055 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.793	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5055 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.793	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5055
+2023.11.13 15:42:00.793	2023.01.03 02:04:23   Revisando posición con ticket: 5056
+2023.11.13 15:42:00.793	2023.01.03 02:04:23   position modified [#5056 buy 0.01 EURUSD 1.06711 sl: 1.06711 tp: 1.08991]
+2023.11.13 15:42:00.795	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5056 EURUSD (sl: 1.06711, tp: 1.08991) [done]
+2023.11.13 15:42:00.795	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5056
+2023.11.13 15:42:00.795	2023.01.03 02:04:23   Revisando posición con ticket: 5057
+2023.11.13 15:42:00.795	2023.01.03 02:04:23   position modified [#5057 buy 0.01 EURUSD 1.06713 sl: 1.06713 tp: 1.08853]
+2023.11.13 15:42:00.797	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5057 EURUSD (sl: 1.06713, tp: 1.08853) [done]
+2023.11.13 15:42:00.797	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5057
+2023.11.13 15:42:00.797	2023.01.03 02:04:23   Revisando posición con ticket: 5058
+2023.11.13 15:42:00.797	2023.01.03 02:04:23   position modified [#5058 buy 0.01 EURUSD 1.06715 sl: 1.06715 tp: 1.08655]
+2023.11.13 15:42:00.799	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5058 EURUSD (sl: 1.06715, tp: 1.08655) [done]
+2023.11.13 15:42:00.799	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5058
+2023.11.13 15:42:00.799	2023.01.03 02:04:23   Revisando posición con ticket: 5059
+2023.11.13 15:42:00.799	2023.01.03 02:04:23   position modified [#5059 buy 0.01 EURUSD 1.06716 sl: 1.06716 tp: 1.08656]
+2023.11.13 15:42:00.801	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5059 EURUSD (sl: 1.06716, tp: 1.08656) [done]
+2023.11.13 15:42:00.801	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5059
+2023.11.13 15:42:00.801	2023.01.03 02:04:23   Revisando posición con ticket: 5060
+2023.11.13 15:42:00.801	2023.01.03 02:04:23   position modified [#5060 buy 0.01 EURUSD 1.06714 sl: 1.06714 tp: 1.08714]
+2023.11.13 15:42:00.803	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5060 EURUSD (sl: 1.06714, tp: 1.08714) [done]
+2023.11.13 15:42:00.803	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5060
+2023.11.13 15:42:00.803	2023.01.03 02:04:23   Revisando posición con ticket: 5061
+2023.11.13 15:42:00.803	2023.01.03 02:04:23   position modified [#5061 buy 0.01 EURUSD 1.06716 sl: 1.06716 tp: 1.08656]
+2023.11.13 15:42:00.805	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5061 EURUSD (sl: 1.06716, tp: 1.08656) [done]
+2023.11.13 15:42:00.805	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5061
+2023.11.13 15:42:00.805	2023.01.03 02:04:23   Revisando posición con ticket: 5084
+2023.11.13 15:42:00.805	2023.01.03 02:04:23   position modified [#5084 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07233]
+2023.11.13 15:42:00.807	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5084 EURUSD (sl: 1.06733, tp: 1.07233) [done]
+2023.11.13 15:42:00.807	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5084
+2023.11.13 15:42:00.807	2023.01.03 02:04:23   Revisando posición con ticket: 5085
+2023.11.13 15:42:00.807	2023.01.03 02:04:23   Revisando posición con ticket: 5086
+2023.11.13 15:42:00.807	2023.01.03 02:04:23   Revisando posición con ticket: 5087
+2023.11.13 15:42:00.807	2023.01.03 02:04:23   Revisando posición con ticket: 5088
+2023.11.13 15:42:00.807	2023.01.03 02:04:23   Revisando posición con ticket: 5089
+2023.11.13 15:42:00.807	2023.01.03 02:04:23   position modified [#5089 buy 0.01 EURUSD 1.06734 sl: 1.06734 tp: 1.07184]
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5089 EURUSD (sl: 1.06734, tp: 1.07184) [done]
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5089
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5090
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5091
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5092
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5093
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5094
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5095
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5096
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5097
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5098
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5099
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5100
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5101
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5102
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5103
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5104
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5105
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5106
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5107
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5108
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5109
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5110
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5111
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5112
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5113
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5114
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5115
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5116
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5117
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5118
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5119
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5120
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5121
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5122
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5123
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   Revisando posición con ticket: 5124
+2023.11.13 15:42:00.809	2023.01.03 02:04:23   position modified [#5124 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07233]
+2023.11.13 15:42:00.811	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5124 EURUSD (sl: 1.06733, tp: 1.07233) [done]
+2023.11.13 15:42:00.811	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5124
+2023.11.13 15:42:00.811	2023.01.03 02:04:23   Revisando posición con ticket: 5125
+2023.11.13 15:42:00.811	2023.01.03 02:04:23   position modified [#5125 buy 0.01 EURUSD 1.06734 sl: 1.06734 tp: 1.07184]
+2023.11.13 15:42:00.813	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5125 EURUSD (sl: 1.06734, tp: 1.07184) [done]
+2023.11.13 15:42:00.813	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5125
+2023.11.13 15:42:00.813	2023.01.03 02:04:23   Revisando posición con ticket: 5126
+2023.11.13 15:42:00.813	2023.01.03 02:04:23   position modified [#5126 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07233]
+2023.11.13 15:42:00.815	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5126 EURUSD (sl: 1.06733, tp: 1.07233) [done]
+2023.11.13 15:42:00.815	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5126
+2023.11.13 15:42:00.815	2023.01.03 02:04:23   Revisando posición con ticket: 5127
+2023.11.13 15:42:00.815	2023.01.03 02:04:23   position modified [#5127 buy 0.01 EURUSD 1.06734 sl: 1.06734 tp: 1.07184]
+2023.11.13 15:42:00.817	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5127 EURUSD (sl: 1.06734, tp: 1.07184) [done]
+2023.11.13 15:42:00.817	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5127
+2023.11.13 15:42:00.817	2023.01.03 02:04:23   Revisando posición con ticket: 5128
+2023.11.13 15:42:00.817	2023.01.03 02:04:23   position modified [#5128 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07233]
+2023.11.13 15:42:00.819	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5128 EURUSD (sl: 1.06733, tp: 1.07233) [done]
+2023.11.13 15:42:00.819	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5128
+2023.11.13 15:42:00.819	2023.01.03 02:04:23   Revisando posición con ticket: 5129
+2023.11.13 15:42:00.819	2023.01.03 02:04:23   position modified [#5129 buy 0.01 EURUSD 1.06734 sl: 1.06734 tp: 1.07184]
+2023.11.13 15:42:00.821	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5129 EURUSD (sl: 1.06734, tp: 1.07184) [done]
+2023.11.13 15:42:00.821	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5129
+2023.11.13 15:42:00.821	2023.01.03 02:04:23   Revisando posición con ticket: 5131
+2023.11.13 15:42:00.821	2023.01.03 02:04:23   position modified [#5131 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07233]
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5131 EURUSD (sl: 1.06733, tp: 1.07233) [done]
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5131
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5132
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5133
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5134
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5135
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5136
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5137
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5138
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5139
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5140
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5141
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5142
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5143
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5144
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5145
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5146
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5147
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5148
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5149
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5150
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5151
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5152
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5153
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5154
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5155
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5156
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5157
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5158
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5159
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5160
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5161
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5162
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5163
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5164
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5165
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5166
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5167
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5168
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5169
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5170
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5171
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5172
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5173
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5174
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5175
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5176
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5177
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5178
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5179
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5180
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5181
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5182
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5183
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5184
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5185
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5186
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5187
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5188
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5189
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5190
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5191
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5192
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5193
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5194
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5195
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5196
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5197
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5198
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5199
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5200
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5201
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5202
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5203
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5204
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5205
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5207
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5249
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5252
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   Revisando posición con ticket: 5561
+2023.11.13 15:42:00.823	2023.01.03 02:04:23   position modified [#5561 buy 0.01 EURUSD 1.06730 sl: 1.06730 tp: 1.07250]
+2023.11.13 15:42:00.825	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5561 EURUSD (sl: 1.06730, tp: 1.07250) [done]
+2023.11.13 15:42:00.825	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5561
+2023.11.13 15:42:00.825	2023.01.03 02:04:23   Revisando posición con ticket: 5571
+2023.11.13 15:42:00.825	2023.01.03 02:04:23   position modified [#5571 buy 0.01 EURUSD 1.06728 sl: 1.06728 tp: 1.07268]
+2023.11.13 15:42:00.827	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5571 EURUSD (sl: 1.06728, tp: 1.07268) [done]
+2023.11.13 15:42:00.827	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5571
+2023.11.13 15:42:00.827	2023.01.03 02:04:23   Revisando posición con ticket: 5576
+2023.11.13 15:42:00.827	2023.01.03 02:04:23   position modified [#5576 buy 0.01 EURUSD 1.06726 sl: 1.06726 tp: 1.07286]
+2023.11.13 15:42:00.829	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5576 EURUSD (sl: 1.06726, tp: 1.07286) [done]
+2023.11.13 15:42:00.829	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5576
+2023.11.13 15:42:00.829	2023.01.03 02:04:23   Revisando posición con ticket: 5591
+2023.11.13 15:42:00.829	2023.01.03 02:04:23   position modified [#5591 buy 0.01 EURUSD 1.06724 sl: 1.06724 tp: 1.07294]
+2023.11.13 15:42:00.831	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5591 EURUSD (sl: 1.06724, tp: 1.07294) [done]
+2023.11.13 15:42:00.831	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5591
+2023.11.13 15:42:00.831	2023.01.03 02:04:23   Revisando posición con ticket: 5600
+2023.11.13 15:42:00.831	2023.01.03 02:04:23   position modified [#5600 buy 0.01 EURUSD 1.06722 sl: 1.06722 tp: 1.07322]
+2023.11.13 15:42:00.833	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5600 EURUSD (sl: 1.06722, tp: 1.07322) [done]
+2023.11.13 15:42:00.833	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5600
+2023.11.13 15:42:00.833	2023.01.03 02:04:23   Revisando posición con ticket: 5602
+2023.11.13 15:42:00.833	2023.01.03 02:04:23   position modified [#5602 buy 0.01 EURUSD 1.06721 sl: 1.06721 tp: 1.07341]
+2023.11.13 15:42:00.835	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5602 EURUSD (sl: 1.06721, tp: 1.07341) [done]
+2023.11.13 15:42:00.835	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5602
+2023.11.13 15:42:00.835	2023.01.03 02:04:23   Revisando posición con ticket: 5603
+2023.11.13 15:42:00.835	2023.01.03 02:04:23   position modified [#5603 buy 0.01 EURUSD 1.06722 sl: 1.06722 tp: 1.07322]
+2023.11.13 15:42:00.837	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5603 EURUSD (sl: 1.06722, tp: 1.07322) [done]
+2023.11.13 15:42:00.837	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5603
+2023.11.13 15:42:00.837	2023.01.03 02:04:23   Revisando posición con ticket: 5604
+2023.11.13 15:42:00.837	2023.01.03 02:04:23   position modified [#5604 buy 0.01 EURUSD 1.06721 sl: 1.06721 tp: 1.07341]
+2023.11.13 15:42:00.839	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5604 EURUSD (sl: 1.06721, tp: 1.07341) [done]
+2023.11.13 15:42:00.839	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5604
+2023.11.13 15:42:00.839	2023.01.03 02:04:23   Revisando posición con ticket: 5605
+2023.11.13 15:42:00.839	2023.01.03 02:04:23   position modified [#5605 buy 0.01 EURUSD 1.06723 sl: 1.06723 tp: 1.07323]
+2023.11.13 15:42:00.841	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5605 EURUSD (sl: 1.06723, tp: 1.07323) [done]
+2023.11.13 15:42:00.841	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5605
+2023.11.13 15:42:00.841	2023.01.03 02:04:23   Revisando posición con ticket: 5606
+2023.11.13 15:42:00.841	2023.01.03 02:04:23   position modified [#5606 buy 0.01 EURUSD 1.06722 sl: 1.06722 tp: 1.07322]
+2023.11.13 15:42:00.843	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5606 EURUSD (sl: 1.06722, tp: 1.07322) [done]
+2023.11.13 15:42:00.843	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5606
+2023.11.13 15:42:00.843	2023.01.03 02:04:23   Revisando posición con ticket: 5607
+2023.11.13 15:42:00.843	2023.01.03 02:04:23   position modified [#5607 buy 0.01 EURUSD 1.06726 sl: 1.06726 tp: 1.07286]
+2023.11.13 15:42:00.845	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5607 EURUSD (sl: 1.06726, tp: 1.07286) [done]
+2023.11.13 15:42:00.845	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5607
+2023.11.13 15:42:00.845	2023.01.03 02:04:23   Revisando posición con ticket: 5608
+2023.11.13 15:42:00.845	2023.01.03 02:04:23   position modified [#5608 buy 0.01 EURUSD 1.06725 sl: 1.06725 tp: 1.07295]
+2023.11.13 15:42:00.847	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5608 EURUSD (sl: 1.06725, tp: 1.07295) [done]
+2023.11.13 15:42:00.847	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5608
+2023.11.13 15:42:00.847	2023.01.03 02:04:23   Revisando posición con ticket: 5609
+2023.11.13 15:42:00.847	2023.01.03 02:04:23   position modified [#5609 buy 0.01 EURUSD 1.06724 sl: 1.06724 tp: 1.07294]
+2023.11.13 15:42:00.849	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5609 EURUSD (sl: 1.06724, tp: 1.07294) [done]
+2023.11.13 15:42:00.849	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5609
+2023.11.13 15:42:00.849	2023.01.03 02:04:23   Revisando posición con ticket: 5610
+2023.11.13 15:42:00.849	2023.01.03 02:04:23   position modified [#5610 buy 0.01 EURUSD 1.06722 sl: 1.06722 tp: 1.07322]
+2023.11.13 15:42:00.851	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5610 EURUSD (sl: 1.06722, tp: 1.07322) [done]
+2023.11.13 15:42:00.851	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5610
+2023.11.13 15:42:00.851	2023.01.03 02:04:23   Revisando posición con ticket: 5611
+2023.11.13 15:42:00.851	2023.01.03 02:04:23   position modified [#5611 buy 0.01 EURUSD 1.06721 sl: 1.06721 tp: 1.07341]
+2023.11.13 15:42:00.853	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5611 EURUSD (sl: 1.06721, tp: 1.07341) [done]
+2023.11.13 15:42:00.853	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5611
+2023.11.13 15:42:00.853	2023.01.03 02:04:23   Revisando posición con ticket: 5614
+2023.11.13 15:42:00.853	2023.01.03 02:04:23   position modified [#5614 buy 0.01 EURUSD 1.06720 sl: 1.06720 tp: 1.07370]
+2023.11.13 15:42:00.855	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5614 EURUSD (sl: 1.06720, tp: 1.07370) [done]
+2023.11.13 15:42:00.855	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5614
+2023.11.13 15:42:00.855	2023.01.03 02:04:23   Revisando posición con ticket: 5629
+2023.11.13 15:42:00.855	2023.01.03 02:04:23   position modified [#5629 buy 0.01 EURUSD 1.06718 sl: 1.06718 tp: 1.07368]
+2023.11.13 15:42:00.857	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5629 EURUSD (sl: 1.06718, tp: 1.07368) [done]
+2023.11.13 15:42:00.857	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5629
+2023.11.13 15:42:00.857	2023.01.03 02:04:23   Revisando posición con ticket: 5630
+2023.11.13 15:42:00.857	2023.01.03 02:04:23   position modified [#5630 buy 0.01 EURUSD 1.06719 sl: 1.06719 tp: 1.07369]
+2023.11.13 15:42:00.859	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5630 EURUSD (sl: 1.06719, tp: 1.07369) [done]
+2023.11.13 15:42:00.859	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5630
+2023.11.13 15:42:00.859	2023.01.03 02:04:23   Revisando posición con ticket: 5631
+2023.11.13 15:42:00.859	2023.01.03 02:04:23   position modified [#5631 buy 0.01 EURUSD 1.06720 sl: 1.06720 tp: 1.07370]
+2023.11.13 15:42:00.861	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5631 EURUSD (sl: 1.06720, tp: 1.07370) [done]
+2023.11.13 15:42:00.861	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5631
+2023.11.13 15:42:00.861	2023.01.03 02:04:23   Revisando posición con ticket: 5632
+2023.11.13 15:42:00.861	2023.01.03 02:04:23   position modified [#5632 buy 0.01 EURUSD 1.06722 sl: 1.06722 tp: 1.07322]
+2023.11.13 15:42:00.863	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5632 EURUSD (sl: 1.06722, tp: 1.07322) [done]
+2023.11.13 15:42:00.863	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5632
+2023.11.13 15:42:00.863	2023.01.03 02:04:23   Revisando posición con ticket: 5633
+2023.11.13 15:42:00.863	2023.01.03 02:04:23   position modified [#5633 buy 0.01 EURUSD 1.06723 sl: 1.06723 tp: 1.07323]
+2023.11.13 15:42:00.865	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5633 EURUSD (sl: 1.06723, tp: 1.07323) [done]
+2023.11.13 15:42:00.865	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5633
+2023.11.13 15:42:00.865	2023.01.03 02:04:23   Revisando posición con ticket: 5634
+2023.11.13 15:42:00.865	2023.01.03 02:04:23   position modified [#5634 buy 0.01 EURUSD 1.06724 sl: 1.06724 tp: 1.07294]
+2023.11.13 15:42:00.867	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5634 EURUSD (sl: 1.06724, tp: 1.07294) [done]
+2023.11.13 15:42:00.867	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5634
+2023.11.13 15:42:00.867	2023.01.03 02:04:23   Revisando posición con ticket: 5635
+2023.11.13 15:42:00.867	2023.01.03 02:04:23   position modified [#5635 buy 0.01 EURUSD 1.06726 sl: 1.06726 tp: 1.07286]
+2023.11.13 15:42:00.869	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5635 EURUSD (sl: 1.06726, tp: 1.07286) [done]
+2023.11.13 15:42:00.869	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5635
+2023.11.13 15:42:00.869	2023.01.03 02:04:23   Revisando posición con ticket: 5636
+2023.11.13 15:42:00.869	2023.01.03 02:04:23   position modified [#5636 buy 0.01 EURUSD 1.06727 sl: 1.06727 tp: 1.07287]
+2023.11.13 15:42:00.871	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5636 EURUSD (sl: 1.06727, tp: 1.07287) [done]
+2023.11.13 15:42:00.871	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5636
+2023.11.13 15:42:00.871	2023.01.03 02:04:23   Revisando posición con ticket: 5637
+2023.11.13 15:42:00.871	2023.01.03 02:04:23   position modified [#5637 buy 0.01 EURUSD 1.06726 sl: 1.06726 tp: 1.07286]
+2023.11.13 15:42:00.873	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5637 EURUSD (sl: 1.06726, tp: 1.07286) [done]
+2023.11.13 15:42:00.873	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5637
+2023.11.13 15:42:00.873	2023.01.03 02:04:23   Revisando posición con ticket: 5638
+2023.11.13 15:42:00.873	2023.01.03 02:04:23   position modified [#5638 buy 0.01 EURUSD 1.06727 sl: 1.06727 tp: 1.07287]
+2023.11.13 15:42:00.875	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5638 EURUSD (sl: 1.06727, tp: 1.07287) [done]
+2023.11.13 15:42:00.875	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5638
+2023.11.13 15:42:00.875	2023.01.03 02:04:23   Revisando posición con ticket: 5639
+2023.11.13 15:42:00.875	2023.01.03 02:04:23   position modified [#5639 buy 0.01 EURUSD 1.06726 sl: 1.06726 tp: 1.07286]
+2023.11.13 15:42:00.877	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5639 EURUSD (sl: 1.06726, tp: 1.07286) [done]
+2023.11.13 15:42:00.877	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5639
+2023.11.13 15:42:00.877	2023.01.03 02:04:23   Revisando posición con ticket: 5640
+2023.11.13 15:42:00.877	2023.01.03 02:04:23   position modified [#5640 buy 0.01 EURUSD 1.06727 sl: 1.06727 tp: 1.07287]
+2023.11.13 15:42:00.879	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5640 EURUSD (sl: 1.06727, tp: 1.07287) [done]
+2023.11.13 15:42:00.879	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5640
+2023.11.13 15:42:00.879	2023.01.03 02:04:23   Revisando posición con ticket: 5641
+2023.11.13 15:42:00.879	2023.01.03 02:04:23   position modified [#5641 buy 0.01 EURUSD 1.06725 sl: 1.06725 tp: 1.07295]
+2023.11.13 15:42:00.881	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5641 EURUSD (sl: 1.06725, tp: 1.07295) [done]
+2023.11.13 15:42:00.881	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5641
+2023.11.13 15:42:00.881	2023.01.03 02:04:23   Revisando posición con ticket: 5642
+2023.11.13 15:42:00.881	2023.01.03 02:04:23   position modified [#5642 buy 0.01 EURUSD 1.06726 sl: 1.06726 tp: 1.07286]
+2023.11.13 15:42:00.883	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5642 EURUSD (sl: 1.06726, tp: 1.07286) [done]
+2023.11.13 15:42:00.883	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5642
+2023.11.13 15:42:00.883	2023.01.03 02:04:23   Revisando posición con ticket: 5643
+2023.11.13 15:42:00.883	2023.01.03 02:04:23   position modified [#5643 buy 0.01 EURUSD 1.06727 sl: 1.06727 tp: 1.07287]
+2023.11.13 15:42:00.885	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5643 EURUSD (sl: 1.06727, tp: 1.07287) [done]
+2023.11.13 15:42:00.885	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5643
+2023.11.13 15:42:00.885	2023.01.03 02:04:23   Revisando posición con ticket: 5644
+2023.11.13 15:42:00.885	2023.01.03 02:04:23   position modified [#5644 buy 0.01 EURUSD 1.06729 sl: 1.06729 tp: 1.07249]
+2023.11.13 15:42:00.887	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5644 EURUSD (sl: 1.06729, tp: 1.07249) [done]
+2023.11.13 15:42:00.887	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5644
+2023.11.13 15:42:00.887	2023.01.03 02:04:23   Revisando posición con ticket: 5645
+2023.11.13 15:42:00.887	2023.01.03 02:04:23   position modified [#5645 buy 0.01 EURUSD 1.06730 sl: 1.06730 tp: 1.07250]
+2023.11.13 15:42:00.889	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5645 EURUSD (sl: 1.06730, tp: 1.07250) [done]
+2023.11.13 15:42:00.889	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5645
+2023.11.13 15:42:00.889	2023.01.03 02:04:23   Revisando posición con ticket: 5646
+2023.11.13 15:42:00.889	2023.01.03 02:04:23   position modified [#5646 buy 0.01 EURUSD 1.06731 sl: 1.06731 tp: 1.07241]
+2023.11.13 15:42:00.891	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5646 EURUSD (sl: 1.06731, tp: 1.07241) [done]
+2023.11.13 15:42:00.891	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5646
+2023.11.13 15:42:00.891	2023.01.03 02:04:23   Revisando posición con ticket: 5647
+2023.11.13 15:42:00.891	2023.01.03 02:04:23   position modified [#5647 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07233]
+2023.11.13 15:42:00.893	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5647 EURUSD (sl: 1.06733, tp: 1.07233) [done]
+2023.11.13 15:42:00.893	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5647
+2023.11.13 15:42:00.893	2023.01.03 02:04:23   Revisando posición con ticket: 5648
+2023.11.13 15:42:00.893	2023.01.03 02:04:23   position modified [#5648 buy 0.01 EURUSD 1.06734 sl: 1.06734 tp: 1.07184]
+2023.11.13 15:42:00.894	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5648 EURUSD (sl: 1.06734, tp: 1.07184) [done]
+2023.11.13 15:42:00.894	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5648
+2023.11.13 15:42:00.894	2023.01.03 02:04:23   Revisando posición con ticket: 5649
+2023.11.13 15:42:00.894	2023.01.03 02:04:23   position modified [#5649 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07233]
+2023.11.13 15:42:00.896	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5649 EURUSD (sl: 1.06733, tp: 1.07233) [done]
+2023.11.13 15:42:00.896	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5649
+2023.11.13 15:42:00.896	2023.01.03 02:04:23   Revisando posición con ticket: 5650
+2023.11.13 15:42:00.896	2023.01.03 02:04:23   position modified [#5650 buy 0.01 EURUSD 1.06734 sl: 1.06734 tp: 1.07184]
+2023.11.13 15:42:00.898	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5650 EURUSD (sl: 1.06734, tp: 1.07184) [done]
+2023.11.13 15:42:00.898	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5650
+2023.11.13 15:42:00.898	2023.01.03 02:04:23   Revisando posición con ticket: 5651
+2023.11.13 15:42:00.898	2023.01.03 02:04:23   position modified [#5651 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07233]
+2023.11.13 15:42:00.901	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5651 EURUSD (sl: 1.06733, tp: 1.07233) [done]
+2023.11.13 15:42:00.901	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5651
+2023.11.13 15:42:00.901	2023.01.03 02:04:23   Revisando posición con ticket: 5652
+2023.11.13 15:42:00.901	2023.01.03 02:04:23   position modified [#5652 buy 0.01 EURUSD 1.06734 sl: 1.06734 tp: 1.07184]
+2023.11.13 15:42:00.902	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5652 EURUSD (sl: 1.06734, tp: 1.07184) [done]
+2023.11.13 15:42:00.902	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5652
+2023.11.13 15:42:00.902	2023.01.03 02:04:23   Revisando posición con ticket: 5653
+2023.11.13 15:42:00.902	2023.01.03 02:04:23   position modified [#5653 buy 0.01 EURUSD 1.06732 sl: 1.06732 tp: 1.07232]
+2023.11.13 15:42:00.905	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5653 EURUSD (sl: 1.06732, tp: 1.07232) [done]
+2023.11.13 15:42:00.905	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5653
+2023.11.13 15:42:00.905	2023.01.03 02:04:23   Revisando posición con ticket: 5654
+2023.11.13 15:42:00.905	2023.01.03 02:04:23   position modified [#5654 buy 0.01 EURUSD 1.06733 sl: 1.06733 tp: 1.07233]
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   CTrade::OrderSend: modify position #5654 EURUSD (sl: 1.06733, tp: 1.07233) [done]
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Ajuste dinámico de SL y TP para la posición 5654
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5655
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5656
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5657
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5658
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5659
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5660
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5661
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5662
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5663
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5664
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5665
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5666
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5667
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5668
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5669
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5670
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5671
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5672
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5694
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5699
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5704
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5706
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5725
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5731
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5736
+2023.11.13 15:42:00.907	2023.01.03 02:04:23   Revisando posición con ticket: 5742
+2023.11.13 15:42:00.907	test Experts\Advisors\chatgptbot6-sl-tp-fijo-dinamico.ex5 on EURUSD,M5 thread finished
+2023.11.13 15:42:00.907	shutdown finished
